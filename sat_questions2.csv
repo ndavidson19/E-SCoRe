@@ -1,0 +1,3776 @@
+question_id,question,choices,correct_answers,rationale,difficulty
+002dba45,"Line  is deﬁned by 
+. Line  is perpendicular to line  in the xy-plane. What is the slope of line ?
+ID: 002dba45 Answer",[],"['.1764', '.1765', '3/17']","The correct answer is 
+. It’s given that line  is perpendicular to line  in the xy-plane. This means that the slope of line  is
+the negative reciprocal of the slope of line . The equation of line , 
+, is written in slope-intercept form
+, where 
+ is the slope of the line and  is the y-coordinate of the y-intercept of the line. It follows that the slope
+of line  is 
+. The negative reciprocal of a number is 
+ divided by the number. Therefore, the negative reciprocal of
+ is 
+, or 
+. Thus, the slope of line  is 
+. Note that 3/17, .1764, .1765, and 0.176 are examples of ways to enter a
+correct answer.
+Question Diﬃculty: Medium
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear equations in
+two variables
+Diﬃculty",
+789975b7,"A gardener buys two kinds of fertilizer. Fertilizer A contains 60% ﬁller materials by
+weight and Fertilizer B contains 40% ﬁller materials by weight. Together, the
+fertilizers bought by the gardener contain a total of 240 pounds of ﬁller materials.
+Which equation models this relationship, where x is the number of pounds of
+Fertilizer A and y is the number of pounds of Fertilizer B?","['A.', 'B.', 'C.', 'D. \nID: 789975b7 Answer', 'B. Fertilizer A\nconsists of 0.6x pounds of ﬁller materials and Fertilizer B consists of 0.4y pounds of ﬁller materials. Therefore, \nis equal to 240, not \n. Choice C is incorrect. This choice transposes the percentages of ﬁller materials for\nFertilizer A and Fertilizer B and incorrectly represents how to take the percentage of a value mathematically. Choice D is\nincorrect. This choice incorrectly represents how to take the percentage of a value mathematically. Fertilizer A consists of\n0.6x pounds of ﬁller materials, not 60x pounds of ﬁller materials, and Fertilizer B consists of 0.4y pounds of ﬁller materials,\nnot 40y pounds of ﬁller materials.\n\xa0\nQuestion Diﬃculty: Easy\nAssessment\nSAT\nTest\nMath\nDomain\nAlgebra\nSkill\nLinear equations in\ntwo variables\nDiﬃculty']",['B'],"Choice B is correct. Since Fertilizer A contains 60% ﬁller materials by weight, it follows that x pounds of Fertilizer A consists
+of 0.6x pounds of ﬁller materials. Similarly, y pounds of Fertilizer B consists of 0.4y pounds of ﬁller materials. When x pounds
+of Fertilizer A and y pounds of Fertilizer B are combined, the result is 240 pounds of ﬁller materials. Therefore, the total
+amount, in pounds, of ﬁller materials in a mixture of x pounds of Fertilizer A and y pounds of Fertilizer B can be expressed as
+.
+Choice A is incorrect. This choice transposes the percentages of ﬁller materials for Fertilizer A and Fertilizer B. Fertilizer A
+consists of 0.6x pounds of ﬁller materials and Fertilizer B consists of 0.4y pounds of ﬁller materials. Therefore, 
+is equal to 240, not 
+. Choice C is incorrect. This choice transposes the percentages of ﬁller materials for
+Fertilizer A and Fertilizer B and incorrectly represents how to take the percentage of a value mathematically. Choice D is
+incorrect. This choice incorrectly represents how to take the percentage of a value mathematically. Fertilizer A consists of
+0.6x pounds of ﬁller materials, not 60x pounds of ﬁller materials, and Fertilizer B consists of 0.4y pounds of ﬁller materials,
+not 40y pounds of ﬁller materials.
+ 
+Question Diﬃculty: Easy
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear equations in
+two variables
+Diﬃculty",
+3008cfc3,"The table gives the coordinates of two points on a line in the xy-plane. The y-intercept of the line is 
+, where  and 
+are constants. What is the value of ?
+ID: 3008cfc3 Answer",[],['33'],"The correct answer is 
+. It’s given in the table that the coordinates of two points on a line in the xy-plane are 
+ and
+. The y-intercept is another point on the line. The slope computed using any pair of points from the line will be
+the same. The slope of a line, 
+, between any two points, 
+ and 
+, on the line can be calculated using the
+slope formula, 
+. It follows that the slope of the line with the given points from the table, 
+ and 
+, is 
+, which is equivalent to 
+, or 
+. It's given that the y-intercept of the line is 
+. Substituting 
+ for 
+ and the coordinates of the points 
+ and 
+ into the slope formula yields
+, which is equivalent to 
+, or 
+. Multiplying both sides of this equation by  yields
+. Subtracting 
+ from both sides of this equation yields 
+. Dividing both sides of this equation by 
+ yields 
+. Therefore, the value of  is 
+.
+Question Diﬃculty: Hard
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear equations in
+two variables
+Diﬃculty",
+f224df07,"A cargo helicopter delivers only 100-pound packages and 120-pound packages.
+For each delivery trip, the helicopter must carry at least 10 packages, and the total
+weight of the packages can be at most 1,100 pounds. What is the maximum
+number of 120-pound packages that the helicopter can carry per trip?","['A. 2', 'B. 4', 'C. 5', 'D. 6\nID: f224df07 Answer']",['C'],"Choice C is correct. Let a equal the number of 120-pound packages, and let b equal the number of 100-pound packages. It’s
+given that the total weight of the packages can be at most 1,100 pounds: the inequality 
+ represents
+this situation. It’s also given that the helicopter must carry at least 10 packages: the inequality 
+ represents this
+situation. Values of a and b that satisfy these two inequalities represent the allowable numbers of 120-pound packages and
+100-pound packages the helicopter can transport. To maximize the number of 120-pound packages, a, in the helicopter, the
+number of 100-pound packages, b, in the helicopter needs to be minimized. Expressing b in terms of a in the second
+inequality yields 
+, so the minimum value of b is equal to 
+. Substituting 
+ for b in the ﬁrst inequality
+results in 
+. Using the distributive property to rewrite this inequality yields
+, or 
+. Subtracting 1,000 from both sides of this inequality yields
+. Dividing both sides of this inequality by 20 results in 
+. This means that the maximum number of 120-pound
+packages that the helicopter can carry per trip is 5.
+Choices A, B, and D are incorrect and may result from incorrectly creating or solving the system of inequalities.
+Question Diﬃculty: Medium
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear inequalities
+in one or two
+variables
+Diﬃculty",
+cb8f449f,"The system of equations above has solution (x,
+y). What is the value of x ?","['A. 3', 'B.', 'C. 4', 'D. 6\nID: cb8f449f Answer']",['D'],"Choice D is correct. Adding the corresponding sides of the two equations eliminates y and yields 
+, as shown.
+If (x, y) is a solution to the system, then (x, y) satisﬁes both equations in the system and any equation derived from them.
+Therefore, 
+.
+Choices A, B, and C are incorrect and may be the result of errors when solving the system. 
+Question Diﬃculty: Medium
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Systems of two
+linear equations in
+two variables
+Diﬃculty",
+88e13c8c,"The total cost 
+, in dollars, to lease a car for 
+ months from a particular car dealership is given by
+, where  is the monthly payment, in dollars. What is the total cost to lease a car when the monthly
+payment is 
+?","['A.', 'B.', 'C.', 'D. \nID: 88e13c8c Answer']",['C'],"Choice C is correct. It's given that 
+ is the total cost, in dollars, to lease a car from this dealership with a monthly
+payment of  dollars. Therefore, the total cost, in dollars, to lease the car when the monthly payment is 
+ is represented
+by the value of 
+ when 
+. Substituting 
+ for  in the equation 
+ yields
+, or 
+. Thus, when the monthly payment is 
+, the total cost to lease a car
+is 
+. 
+Choice A is incorrect and may result from conceptual or calculation errors.
+Choice B is incorrect and may result from conceptual or calculation errors.
+Choice D is incorrect and may result from conceptual or calculation errors.
+Question Diﬃculty: Easy
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear functions
+Diﬃculty",
+3cdbf026,"The graph of the equation 
+ is a line in the xy-plane, where a and k are
+constants. If the line contains the points 
+and 
+, what is the value of
+k ?","['A.', 'B.', 'C. 2', 'D. 3\nID: 3cdbf026 Answer']",['A'],"Choice A is correct. The value of k can be found using the slope-intercept form of a linear equation, 
+, where m is
+the slope and b is the y-coordinate of the y-intercept. The equation 
+ can be rewritten in the form 
+. One of the given points, 
+, is the y-intercept. Thus, the y-coordinate of the y-intercept 
+ must be equal to 
+.
+Multiplying both sides by k gives 
+. Dividing both sides by 
+ gives 
+.
+Choices B, C, and D are incorrect and may result from errors made rewriting the given equation. 
+Question Diﬃculty: Hard
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear equations in
+two variables
+Diﬃculty",
+ff501705,"In the given system of equations,  is a constant. If the system has no solution, what is the value of ?
+ID: ff501705 Answer",[],['6'],"The correct answer is . A system of two linear equations in two variables,  and , has no solution if the lines represented
+by the equations in the xy-plane are parallel and distinct. Lines represented by equations in standard form, 
+and 
+, are parallel if the coeﬃcients for  and  in one equation are proportional to the corresponding
+coeﬃcients in the other equation, meaning 
+; and the lines are distinct if the constants are not proportional, meaning
+ is not equal to 
+ or 
+. The ﬁrst equation in the given system is 
+. Multiplying each side of this
+equation by 
+ yields 
+. Adding 
+ to each side of this equation yields 
+, or
+. The second equation in the given system is 
+. Multiplying each side of this equation by
+ yields 
+. Subtracting 
+ from each side of this equation yields 
+. Subtracting  from
+each side of this equation yields 
+. Therefore, the two equations in the given system, written in standard form,
+are 
+ and
+. As previously stated, if this system has no solution, the lines represented by the
+equations in the xy-plane are parallel and distinct, meaning the proportion 
+, or 
+, is true and the
+proportion 
+ is not true. The proportion 
+ is not true. Multiplying each side of the true proportion,
+,  by 
+ yields 
+. Therefore, if the system has no solution, then the value of  is . 
+Question Diﬃculty: Hard
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Systems of two
+linear equations in
+two variables
+Diﬃculty",
+8c5e6702,"A window repair specialist charges 
+ for the ﬁrst two hours of repair plus an hourly fee for each additional hour. The total
+cost for  hours of repair is 
+. Which function  gives the total cost, in dollars, for  hours of repair, where 
+?","['A.', 'B.', 'C.', 'D. \nID: 8c5e6702 Answer']",['A'],"Choice A is correct. It’s given that the window repair specialist charges 
+ for the ﬁrst two hours of repair plus an hourly
+fee for each additional hour. Let  represent the hourly fee for each additional hour after the ﬁrst two hours. Since it’s given
+that  is the number of hours of repair, it follows that the charge generated by the hourly fee after the ﬁrst two hours can be
+represented by the expression 
+. Therefore, the total cost, in dollars, for  hours of repair is
+. It’s given that the total cost for  hours of repair is 
+. Substituting  for  and 
+ for 
+into the equation 
+ yields 
+, or 
+. Subtracting 
+ from
+both sides of this equation yields 
+. Dividing both sides of this equation by  yields 
+. Substituting 
+ for 
+in the equation 
+ yields 
+, which is equivalent to
+, or 
+. Therefore, the total cost, in dollars, for  hours of repair is 
+.
+Choice B is incorrect. This function represents the total cost, in dollars, for  hours of repair where the specialist charges
+, rather than 
+, for the ﬁrst two hours of repair.
+Choice C is incorrect. This function represents the total cost, in dollars, for  hours of repair where the specialist charges
+, rather than 
+, for the ﬁrst two hours of repair, and an hourly fee of 
+, rather than 
+, after the ﬁrst two hours.
+Choice D is incorrect. This function represents the total cost, in dollars, for  hours of repair where the specialist charges
+, rather than 
+, for the ﬁrst two hours of repair, and an hourly fee of 
+, rather than 
+, after the ﬁrst two hours.
+Question Diﬃculty: Hard
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear functions
+Diﬃculty",
+2937ef4f,"Hector used a tool called an auger to remove corn from a storage bin at a constant
+rate. The bin contained 24,000 bushels of corn when Hector began to use
+the auger. After 5 hours of using the auger, 19,350 bushels of corn remained in the
+bin. If the auger continues to remove corn at this rate, what is the total number of
+hours Hector will have been using the auger when 12,840 bushels of corn remain in
+the bin?","['A. \xa0\xa03', 'B. \xa0\xa07', 'C. \xa0\xa08', 'D. 12\nID: 2937ef4f Answer']",['D'],"Choice D is correct. After using the auger for 5 hours, Hector had removed 24,000 – 19,350 = 4,650 bushels of corn from the
+storage bin. During the 5-hour period, the auger removed corn from the bin at a constant rate of 
+ bushels per
+hour. Assuming the auger continues to remove corn at this rate, after x hours it will have removed 930x bushels of corn.
+Because the bin contained 24,000 bushels of corn when Hector started using the auger, the equation 24,000 – 930x = 12,840
+can be used to ﬁnd the number of hours, x, Hector will have been using the auger when 12,840 bushels of corn remain in the
+bin. Subtracting 12,840 from both sides of this equation and adding 930x to both sides of the equation yields 11,160 = 930x.
+Dividing both sides of this equation by 930 yields x = 12. Therefore, Hector will have been using the auger for 12 hours when
+12,840 bushels of corn remain in the storage bin.
+Choice A is incorrect. Three hours after Hector began using the auger, 24,000 – 3(930) = 21,210 bushels of corn remained,
+not 12,840. Choice B is incorrect. Seven hours after Hector began using the auger, 24,000 – 7(930) = 17,490 bushels of corn
+will remain, not 12,840. Choice C is incorrect. Eight hours after Hector began using the auger, 24,000 – 8(930) = 16,560
+bushels of corn will remain, not 12,840.
+Question Diﬃculty: Hard
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear equations in
+one variable
+Diﬃculty",
+548a4929,"The function  is deﬁned by 
+. The graph of 
+ in the xy-plane has an x-intercept at 
+ and a y-
+intercept at 
+, where  and  are constants. What is the value of 
+?","['A.', 'B.', 'C.', 'D. \nID: 548a4929 Answer']",['A'],"Choice A is correct. The x-intercept of a graph in the xy-plane is the point on the graph where 
+. It's given that function 
+is deﬁned by 
+. Therefore, the equation representing the graph of 
+ is 
+. Substituting 
+for  in the equation 
+ yields 
+. Subtracting 
+ from both sides of this equation yields 
+.
+Dividing both sides of this equation by  yields 
+. Therefore, the x-intercept of the graph of 
+ in the xy-plane
+is 
+. It's given that the x-intercept of the graph of 
+ is 
+. Therefore, 
+. The y-intercept of a graph in
+the xy-plane is the point on the graph where 
+. Substituting  for  in the equation 
+ yields 
+,
+or 
+. Therefore, the y-intercept of the graph of 
+ in the xy-plane is 
+. It's given that the y-intercept of the
+graph of 
+ is 
+. Therefore, 
+. If 
+ and 
+, then the value of 
+ is 
+, or 
+.
+Choice B is incorrect. This is the value of , not 
+.
+Choice C is incorrect and may result from conceptual or calculation errors.
+Choice D is incorrect. This is the value of 
+, not 
+.
+Question Diﬃculty: Medium
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear functions
+Diﬃculty",
+9bbce683,"For line , the table shows three values of  and their corresponding values of . Line  is the result of translating line 
+down  units in the xy-plane. What is the x-intercept of line ?","['A.', 'B.', 'C.', 'D. \nID: 9bbce683 Answer']",['D'],"Choice D is correct. The equation of line  can be written in slope-intercept form 
+, where 
+ is the slope of the
+line and 
+ is the y-intercept of the line. It’s given that line  contains the points 
+, 
+, and 
+.
+Therefore, its slope 
+ can be found as 
+, or . Substituting  for 
+ in the equation 
+ yields 
+.
+Substituting 
+ for  and 
+ for  in this equation yields 
+, or 
+. Subtracting 
+ from both
+sides of this equation yields 
+. Substituting 
+ for  in 
+ yields 
+. Since line  is the result of
+translating line  down  units, an equation of line  is 
+, or 
+. Substituting  for  in this
+equation yields 
+. Solving this equation for  yields 
+. Therefore, the x-intercept of line  is 
+.
+Choice A is incorrect and may result from conceptual or calculation errors.
+Choice B is incorrect and may result from conceptual or calculation errors.
+Choice C is incorrect and may result from conceptual or calculation errors.
+Question Diﬃculty: Hard
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear equations in
+two variables
+Diﬃculty",
+2b15d65f,"An economist modeled the demand Q for a certain product as a linear function of
+the selling price P. The demand was 20,000 units when the selling price was $40
+per unit, and the demand was 15,000 units when the selling price was $60 per unit.
+Based on the model, what is the demand, in units, when the selling price is $55 per
+unit?","['A. 16,250', 'B. 16,500', 'C. 16,750', 'D. 17,500\nID: 2b15d65f Answer']",['A'],"Choice A is correct. Let the economist’s model be the linear function 
+, where Q is the demand, P is the selling
+price, m is the slope of the line, and b is the y-coordinate of the y-intercept of the line in the xy-plane, where 
+. Two pairs
+of the selling price P and the demand Q are given. Using the coordinate pairs 
+, two points that satisfy the function are
+ and 
+. The slope m of the function can be found using the formula 
+. Substituting
+the given values into this formula yields 
+, or  
+. Therefore, 
+. The value of
+b can be found by substituting one of the points into the function. Substituting the values of P and Q from the point
+ yields 
+, or 
+. Adding 10,000 to both sides of this equation
+yields 
+. Therefore, the linear function the economist used as the model is 
+. Substituting
+55 for P yields 
+. It follows that when the selling price is $55 per unit, the demand is
+16,250 units.
+Choices B, C, and D are incorrect and may result from calculation or conceptual errors. 
+Question Diﬃculty: Hard
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear functions
+Diﬃculty",
+686b7244,"A certain apprentice has enrolled in 
+ hours of training courses. The equation 
+ represents this situation,
+where  is the number of on-site training courses and  is the number of online training courses this apprentice has enrolled
+in. How many more hours does each online training course take than each on-site training course?
+ID: 686b7244 Answer",[],['5'],"The correct answer is . It's given that the equation 
+ represents the situation, where  is the number of on-
+site training courses,  is the number of online training courses, and 
+ is the total number of hours of training courses the
+apprentice has enrolled in. Therefore, 
+ represents the number of hours the apprentice has enrolled in on-site training
+courses, and 
+ represents the number of hours the apprentice has enrolled in online training courses. Since  is the
+number of on-site training courses and  is the number of online training courses the apprentice has enrolled in, 
+ is the
+number of hours each on-site course takes and 
+ is the number of hours each online course takes. Subtracting these
+numbers gives 
+, or  more hours each online training course takes than each on-site training course.
+Question Diﬃculty: Hard
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear equations in
+two variables
+Diﬃculty",
+b86123af,"Hiro and Soﬁa purchased shirts and pants from a store. The price of each shirt
+purchased was the same and the price of each pair of pants purchased was the
+same. Hiro purchased 4 shirts and 2 pairs of pants for $86, and Soﬁa purchased 3
+shirts and 5 pairs of pants for $166. Which of the following systems of linear
+equations represents the situation, if x represents the price, in dollars, of each shirt
+and y represents the price, in dollars, of each pair of pants?","['A.', 'B.', 'C.', 'D. \nID: b86123af Answer']",['A'],"Choice A is correct. Hiro purchased 4 shirts and each shirt cost x dollars, so he spent a total of 4x dollars on shirts. Likewise,
+Hiro purchased 2 pairs of pants, and each pair of pants cost y dollars, so he spent a total of 2y dollars on pants. Therefore,
+the total amount that Hiro spent was 4x + 2y. Since Hiro spent $86 in total, this can be modeled by the equation 4x + 2y = 86.
+Using the same reasoning, Soﬁa bought 3 shirts at x dollars each and 5 pairs of pants at y dollars each, so she spent a total
+of 3x + 5y dollars on shirts and pants. Since Soﬁa spent $166 in total, this can be modeled by the equation 3x + 5y = 166.
+Choice B is incorrect and may be the result of switching the number of shirts Soﬁa purchased with the number of pairs of
+pants Hiro purchased. Choice C is incorrect and may be the result of switching the total price each person paid. Choice D is
+incorrect and may be the result of switching the total price each person paid as well as switching the number of shirts Soﬁa
+purchased with the number of pairs of pants Hiro purchased.
+ 
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Systems of two
+linear equations in
+two variables
+Diﬃculty
+Question Diﬃculty: Easy",
+ee846db7,"A store sells two different-sized containers of a certain Greek yogurt. The store’s sales of this Greek yogurt totaled 
+dollars last month. The equation 
+ represents this situation, where  is the number of smaller
+containers sold and  is the number of larger containers sold. According to the equation, which of the following represents
+the price, in dollars, of each smaller container?","['A.', 'B.', 'C.', 'D. \nID: ee846db7 Answer']",['A'],"Choice A is correct. It's given that the store's sales of a certain Greek yogurt totaled 
+ dollars last month. It's also
+given that the equation 
+ represents this situation, where  is the number of smaller containers
+sold and  is the number of larger containers sold. Since  represents the number of smaller containers of yogurt sold, the
+expression 
+ represents the total sales, in dollars, from smaller containers of yogurt. This means that  smaller
+containers of yogurt were sold at a price of 
+ dollars each. Therefore, according to the equation, 
+ represents the
+price, in dollars, of each smaller container.
+Choice B is incorrect. This expression represents the total sales, in dollars, from selling  larger containers of yogurt.
+Choice C is incorrect. This value represents the price, in dollars, of each larger container of yogurt.
+Choice D is incorrect. This expression represents the total sales, in dollars, from selling  smaller containers of yogurt.
+Question Diﬃculty: Easy
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear equations in
+two variables
+Diﬃculty",
+5b8a8475,"Line  is deﬁned by 
+. Line  is perpendicular to line  in the xy-plane. What is the slope of line ?","['A.', 'B.', 'C.', 'D. \nID: 5b8a8475 Answer']",['A'],"Choice A is correct. It's given that line  is perpendicular to line  in the xy-plane. It follows that the slope of line  is the
+opposite reciprocal of the slope of line . The equation for line  is written in slope-intercept form 
+, where 
+ is
+the slope of the line and   is the y-coordinate of the y-intercept of the line. It follows that the slope of line  is . The opposite
+reciprocal of a number is 
+ divided by the number. Thus, the opposite reciprocal of  is 
+. Therefore, the slope of line 
+is 
+.
+Choice B is incorrect and may result from conceptual or calculation errors.
+Choice C is incorrect and may result from conceptual or calculation errors.
+Choice D is incorrect and may result from conceptual or calculation errors.
+Question Diﬃculty: Easy
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear equations in
+two variables
+Diﬃculty",
+cfe67646,"The point 
+ in the xy-plane is a solution to which of the following systems of inequalities?","['A.', 'B.', 'C.', 'D. \n \nID: cfe67646 Answer', 'A.\nAlternate approach: Substituting  for  in the ﬁrst inequality in choice A, \n, yields\xa0\n, which is true. Substituting \nfor  in the second inequality in choice A,\xa0\n, yields\xa0\n, which is true. Since the coordinates of the point\xa0\n make\nthe inequalities \n and\xa0\n true, the point\xa0\n is a solution to the system of inequalities consisting of \n and\xa0\n.\nChoice B is incorrect. This system of inequalities represents all the points in the fourth quadrant, not the ﬁrst quadrant, in the\nxy-plane.\nChoice C is incorrect. This system of inequalities represents all the points in the second quadrant, not the ﬁrst quadrant, in\nthe xy-plane.\nChoice D is incorrect. This system of inequalities represents all the points in the third quadrant, not the ﬁrst quadrant, in the\nxy-plane.\nQuestion Diﬃculty: Easy\nAssessment\nSAT\nTest\nMath\nDomain\nAlgebra\nSkill\nLinear inequalities\nin one or two\nvariables\nDiﬃculty']",['A'],"Choice A is correct. The given point, 
+, is located in the ﬁrst quadrant in the xy-plane. The system of inequalities in
+choice A represents all the points in the ﬁrst quadrant in the xy-plane. Therefore, 
+ is a solution to the system of
+inequalities in choice A.
+Alternate approach: Substituting  for  in the ﬁrst inequality in choice A, 
+, yields 
+, which is true. Substituting 
+for  in the second inequality in choice A, 
+, yields 
+, which is true. Since the coordinates of the point 
+ make
+the inequalities 
+ and 
+ true, the point 
+ is a solution to the system of inequalities consisting of 
+ and 
+.
+Choice B is incorrect. This system of inequalities represents all the points in the fourth quadrant, not the ﬁrst quadrant, in the
+xy-plane.
+Choice C is incorrect. This system of inequalities represents all the points in the second quadrant, not the ﬁrst quadrant, in
+the xy-plane.
+Choice D is incorrect. This system of inequalities represents all the points in the third quadrant, not the ﬁrst quadrant, in the
+xy-plane.
+Question Diﬃculty: Easy
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear inequalities
+in one or two
+variables
+Diﬃculty",
+608eeb6e,"The solution to the given system of equations is 
+. What is the value of 
+?","['A.', 'B.', 'C.', 'D. \nID: 608eeb6e Answer']",['C'],"Choice C is correct. Adding the second equation of the given system to the ﬁrst equation yields 
+, which is equivalent to 
+. So the value of 
+ is 
+.
+Choice A is incorrect and may result from conceptual or calculation errors.
+Choice B is incorrect. This is the value of 
+.
+Choice D is incorrect and may result from conceptual or calculation errors.
+Question Diﬃculty: Easy
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Systems of two
+linear equations in
+two variables
+Diﬃculty",
+be9cb6a2,"The cost of renting a backhoe for up to 
+ days is 
+ for the ﬁrst day and 
+ for each additional day. Which of the
+following equations gives the cost , in dollars, of renting the backhoe for  days, where  is a positive integer and 
+?","['A.', 'B.', 'C.', 'D. \nID: be9cb6a2 Answer']",['D'],"Choice D is correct. It's given that the cost of renting a backhoe for up to 
+ days is 
+ for the ﬁrst day and 
+ for each
+additional day. Therefore, the cost , in dollars, for  days, where 
+, is the sum of the cost for the ﬁrst day, 
+, and
+the cost for the additional 
+ days, 
+. It follows that 
+, which is equivalent to
+, or 
+.
+Choice A is incorrect. This equation represents a situation where the cost of renting a backhoe is 
+ for the ﬁrst day and
+ for each additional day.
+Choice B is incorrect and may result from conceptual or calculation errors.
+Choice C is incorrect and may result from conceptual or calculation errors.
+Question Diﬃculty: Hard
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear functions
+Diﬃculty",
+097e10f5,"What value of  satisﬁes the equation 
+?","['A.', 'B.', 'C.', 'D. \nID: 097e10f5 Answer']",['A'],"Choice A is correct. Subtracting 
+ from both sides of the given equation yields 
+. Dividing both sides of this
+equation by  yields 
+. Therefore, the value of  that satisﬁes the equation 
+ is 
+.
+Choice B is incorrect. This value of  satisﬁes the equation 
+.
+Choice C is incorrect. This value of  satisﬁes the equation 
+.
+Choice D is incorrect. This value of  satisﬁes the equation 
+.
+Question Diﬃculty: Easy
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear equations in
+one variable
+Diﬃculty",
+84664a7c,"The front of a roller-coaster car is at the bottom of a hill and is 15 feet above the
+ground. If the front of the roller-coaster car rises at a constant rate of 8 feet per
+second, which of the following equations gives the height h, in feet, of the front of
+the roller-coaster car s seconds after it starts up the hill?","['A.', 'B.', 'C.', 'D. \nID: 84664a7c Answer']",['A'],"Choice A is correct. It’s given that the front of the roller-coaster car starts rising when it’s 15 feet above the ground. This
+initial height of 15 feet can be represented by a constant term, 15, in an equation. Each second, the front of the roller-coaster
+car rises 8 feet, which can be represented by 8s. Thus, the equation 
+ gives the height, in feet, of the front of the
+roller-coaster car s seconds after it starts up the hill.
+Choices B and C are incorrect and may result from conceptual errors in creating a linear equation. Choice D is incorrect and
+may result from switching the rate at which the roller-coaster car rises with its initial height.
+ 
+Question Diﬃculty: Easy
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear functions
+Diﬃculty",
+b0fc3166,"The graph of a system of linear equations is shown. What is the solution 
+ to the system?","['A.', 'B.', 'C.', 'D. \nID: b0fc3166 Answer']",['C'],"Choice C is correct. The solution to this system of linear equations is represented by the point that lies on both lines shown,
+or the point of intersection of the two lines. According to the graph, the point of intersection occurs when 
+ and 
+,
+or at the point 
+. Therefore, the solution 
+ to the system is 
+.
+Choice A is incorrect and may result from conceptual or calculation errors.
+Choice B is incorrect and may result from conceptual or calculation errors.
+Choice D is incorrect and may result from conceptual or calculation errors.
+Question Diﬃculty: Easy",
+db422e7f,"Line  is deﬁned by 
+. Line  is perpendicular to line  in the xy-plane. What is the slope of line ?
+ID: db422e7f Answer",[],"['.5', '1/2']","The correct answer is 
+. For an equation in slope-intercept form 
+, 
+ represents the slope of the line in the xy-
+plane deﬁned by this equation. It's given that line  is deﬁned by 
+. Subtracting 
+ from both sides of this
+equation yields 
+. Dividing both sides of this equation by  yields 
+, or 
+. Thus,
+the slope of line  is 
+. If line  is perpendicular to line , then the slope of line  is the negative reciprocal of the slope of
+line . The negative reciprocal of 
+ is 
+. Note that 1/2 and .5 are examples of ways to enter a correct answer.
+Question Diﬃculty: Hard
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear equations in
+two variables
+Diﬃculty",
+01682aa5,"Line  is deﬁned by 
+. Line  is perpendicular to line  in the xy-plane. What is the slope of line ?","['A.', 'B.', 'C.', 'D. \nID: 01682aa5 Answer']",['C'],"Choice C is correct. It’s given that line  is perpendicular to line  in the xy-plane. This means that the slope of line  is the
+negative reciprocal of the slope of line . If the equation for line  is rewritten in slope-intercept form 
+, where 
+and  are constants, then 
+ is the slope of the line and 
+ is its y-intercept. Subtracting 
+ from both sides of the
+equation 
+ yields 
+. Dividing both sides of this equation by  yields 
+. It follows
+that the slope of line  is 
+. The negative reciprocal of a number is 
+ divided by the number. Therefore, the negative
+reciprocal of 
+ is 
+, or 
+. Thus, the slope of line  is 
+.
+Choice A is incorrect. This is the slope of line , not line .
+Choice B is incorrect. This is the reciprocal, not the negative reciprocal, of the slope of line .
+Choice D is incorrect. This is the negative, not the negative reciprocal, of the slope of line .
+Question Diﬃculty: Medium
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear equations in
+two variables
+Diﬃculty",
+45cfb9de,"Adam’s school is a 20-minute walk or a 5-minute bus ride away from his house.
+The bus runs once every 30 minutes, and the number of minutes, w, that Adam
+waits for the bus varies between 0 and 30. Which of the following inequalities gives
+the values of w for which it would be faster for Adam to walk to school?","['A.', 'B.', 'C.', 'D. \nID: 45cfb9de Answer']",['D'],"Choice D is correct. It is given that w is the number of minutes that Adam waits for the bus. The total time it takes Adam to
+get to school on a day he takes the bus is the sum of the minutes, w, he waits for the bus and the 5 minutes the bus ride
+takes; thus, this time, in minutes, is w + 5. It is also given that the total amount of time it takes Adam to get to school on a
+day that he walks is 20 minutes. Therefore, w + 5 > 20 gives the values of w for which it would be faster for Adam to walk to
+school.
+Choices A and B are incorrect because w – 5 is not the total length of time for Adam to wait for and then take the bus to
+school. Choice C is incorrect because the inequality should be true when walking 20 minutes is faster than the time it takes
+Adam to wait for and ride the bus, not less.
+Question Diﬃculty: Hard
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear inequalities
+in one or two
+variables
+Diﬃculty",
+06fc1726,"If f is the function deﬁned by 
+,
+what is the value of 
+ ?","['A.', 'B.', 'C. 3', 'D. 9\nID: 06fc1726 Answer']",['C'],"Choice C is correct. If 
+, then 
+.
+Choice A is incorrect and may result from not multiplying x by 2 in the numerator. Choice B is incorrect and may result from
+dividing 2x by 3 and then subtracting 1. Choice D is incorrect and may result from evaluating only the numerator 2x – 1.
+ 
+Question Diﬃculty: Easy
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear functions
+Diﬃculty",
+6863c7ce,"The given equation represents the distance , in inches, where  represents the number of seconds since an object started
+moving. Which of the following is the best interpretation of 
+ in this context?","['A. The object moved a total of \n inches.', 'B. The object moved a total of \n inches.', 'C. The object is moving at a rate of \n inches per second.', 'D. The object is moving at a rate of \n inches per second.\nID: 6863c7ce Answer']",['C'],"Choice C is correct. It’s given that in the equation 
+,  represents the distance, in inches, and  represents the number
+of seconds since an object started moving. In this equation,  is being multiplied by 
+. This means that the object’s distance
+increases by 
+ inches each second. Therefore, the best interpretation of 
+ in this context is that the object is moving at a
+rate of 
+ inches per second.
+Choice A is incorrect and may result from conceptual errors.
+Choice B is incorrect. This is the best interpretation of 
+, rather than 
+, in this context.
+Choice D is incorrect and may result from conceptual errors.
+Question Diﬃculty: Easy
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear functions
+Diﬃculty",
+a5834ea4,"For the given linear function , which table gives three values of  and their corresponding values of 
+?","['A.', 'B.', 'C.', 'D. \nID: a5834ea4 Answer']",['B'],"Choice B is correct. For the given linear function , 
+ must equal 
+ for all values of . Of the given choices, only choice
+B gives three values of  and their corresponding values of 
+ for the given linear function .
+Choice A is incorrect and may result from conceptual errors. Choice C is incorrect and may result from conceptual errors.
+Choice D is incorrect and may result from conceptual errors.
+Question Diﬃculty: Medium",
+0b332f00,"The function  is deﬁned by 
+. For what value of  is 
+?
+ID: 0b332f00 Answer",[],['9'],"The correct answer is . It’s given that 
+. Substituting 
+ for 
+ in the given function yields 
+. Dividing
+both sides of this equation by  yields 
+. Therefore, the value of  when 
+ is .
+Question Diﬃculty: Easy
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear functions
+Diﬃculty",
+349a5bc1,"What is the solution to the given equation?
+ID: 349a5bc1 Answer",[],['40'],"The correct answer is 
+. Subtracting  from both sides of the given equation yields 
+. Dividing both sides of this
+equation by  yields 
+. Therefore, the solution to the given equation is 
+.
+Question Diﬃculty: Easy
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear equations in
+one variable
+Diﬃculty",
+bf4a8b6a,"A company that provides whale-watching tours takes groups of 
+ people at a time. The company’s revenue is 
+ dollars per
+adult and 
+ dollars per child. If the company’s revenue for one group consisting of adults and children was 
+ dollars,
+how many people in the group were children?","['A.', 'B.', 'C.', 'D. \nID: bf4a8b6a Answer']",['C'],"Choice C is correct. Let  represent the number of children in a whale-watching tour group. Let  represent the number of
+adults in this group. Because it's given that 
+ people are in a group and the group consists of adults and children, it must be
+true that 
+. Since the company's revenue is 
+ dollars per child, the total revenue from  children in this group
+was 
+ dollars. Since the company's revenue is 
+ dollars per adult, the total revenue from  adults in this group was 
+dollars. Because it's given that the total revenue for this group was 
+ dollars, it must be true that 
+.
+The equations 
+ and 
+ form a linear system of equations that can be solved to ﬁnd the value
+of , which represents the number of children in the group, using the elimination method. Multiplying both sides of the
+equation 
+ by 
+ yields 
+. Subtracting 
+ from 
+ yields
+, which is equivalent to 
+, or 
+.
+Dividing both sides of this equation by 
+ yields 
+. Therefore, 
+ people in the group were children.
+Choice A is incorrect and may result from conceptual or calculation errors.
+Choice B is incorrect. This is the number of adults in the group, not the number of children in the group.
+Choice D is incorrect and may result from conceptual or calculation errors.
+Question Diﬃculty: Medium
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Systems of two
+linear equations in
+two variables
+Diﬃculty",
+7e3f8363,"In the xy-plane, the graph of the linear function  contains the points 
+ and 
+. Which equation deﬁnes , where
+?","['A.', 'B.', 'C.', 'D. \nID: 7e3f8363 Answer']",['C'],"Choice C is correct. In the xy-plane, an equation of the graph of a linear function can be written in the form 
+,
+where 
+ represents the slope and 
+ represents the y-intercept of the graph of 
+. It’s given that the graph of the
+linear function , where 
+, in the xy-plane contains the point 
+. Thus, 
+. The slope of the graph of a line
+containing any two points 
+ and 
+ can be found using the slope formula, 
+. Since it’s given that the
+graph of the linear function  contains the points 
+ and 
+, it follows that the slope of the graph of the line
+containing these points is 
+, or 
+. Substituting  for 
+ and  for  in 
+ yields
+.
+Choice A is incorrect. This function represents a graph with a slope of 
+ and a y-intercept of 
+.
+Choice B is incorrect. This function represents a graph with a slope of  and a y-intercept of 
+.
+Choice D is incorrect. This function represents a graph with a slope of  and a y-intercept of 
+.
+Question Diﬃculty: Medium
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear functions
+Diﬃculty",
+0eae6be1,"The number  is 
+ less than the number . Which equation represents the relationship between  and ?","['A.', 'B.', 'C.', 'D. \nID: 0eae6be1 Answer']",['D'],"Choice D is correct. It’s given that the number  is 
+ less than the number . A number that's 
+ less than the number  is
+equivalent to 
+ subtracted from the number , or 
+. Therefore, the equation 
+ represents the relationship
+between  and .
+Choice A is incorrect and may result from conceptual errors. Choice B is incorrect and may result from conceptual errors.
+Choice C is incorrect and may result from conceptual errors.
+Question Diﬃculty: Easy
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear functions
+Diﬃculty",
+447fa970,"The function  is deﬁned by the equation 
+. What is the value of 
+ when 
+?
+ID: 447fa970 Answer",[],['30'],"The correct answer is 
+. The value of 
+ when 
+ can be found by substituting  for  in the given equation
+. This yields 
+, or 
+. Therefore, when 
+, the value of 
+ is 
+.
+Question Diﬃculty: Easy
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear functions
+Diﬃculty",
+0dd6227f,"At how many points do the graphs of the equations 
+ and 
+ intersect in the xy-plane?","['A.', 'B.', 'C.', 'D. \nID: 0dd6227f Answer']",['B'],"Choice B is correct. Each given equation is written in slope-intercept form, 
+, where 
+ is the slope and 
+ is
+the y-intercept of the graph of the equation in the xy-plane. The graphs of two lines that have different slopes will intersect at
+exactly one point. The graph of the ﬁrst equation is a line with slope . The graph of the second equation is a line with slope
+. Since the graphs are lines with different slopes, they will intersect at exactly one point.
+Choice A is incorrect because two graphs of linear equations have  intersection points only if they are parallel and therefore
+have the same slope.
+Choice C is incorrect because two graphs of linear equations in the xy-plane can have only , , or inﬁnitely many points of
+intersection.
+Choice D is incorrect because two graphs of linear equations in the xy-plane can have only , , or inﬁnitely many points of
+intersection.
+Question Diﬃculty: Medium
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Systems of two
+linear equations in
+two variables
+Diﬃculty",
+b1228811,"Marisa needs to hire at least 10 staff members for an upcoming project. The staff
+members will be made up of junior directors, who will be paid $640 per week, and
+senior directors, who will be paid $880 per week. Her budget for paying the staff
+members is no more than $9,700 per week. She must hire at least 3 junior directors
+and at least 1 senior director. Which of the following systems of inequalities
+represents the conditions described if x is the number of junior directors and y is
+the number of senior directors?","['A.', 'B.', 'C.', 'D. \nID: b1228811 Answer', 'B.\nChoices A and C are incorrect. For example, the ﬁrst condition, \n, in each of these options implies that\nMarisa can pay the new staff members more than her budget of $9,700. Choice D is incorrect because Marisa needs to hire\nat least 10 staff members, not at most 10 staff members, as the inequality \n implies.\n\xa0\nQuestion Diﬃculty: Medium']",['B'],"Choice B is correct. Marisa will hire x junior directors and y senior directors. Since she needs to hire at least 10 staff
+members, 
+. Each junior director will be paid $640 per week, and each senior director will be paid $880 per week.
+Marisa’s budget for paying the new staff is no more than $9,700 per week; in terms of x and y, this condition is
+. Since Marisa must hire at least 3 junior directors and at least 1 senior director, it follows that 
+and 
+. All four of these conditions are represented correctly in choice B.
+Choices A and C are incorrect. For example, the ﬁrst condition, 
+, in each of these options implies that
+Marisa can pay the new staff members more than her budget of $9,700. Choice D is incorrect because Marisa needs to hire
+at least 10 staff members, not at most 10 staff members, as the inequality 
+ implies.
+ 
+Question Diﬃculty: Medium",
+6105234d,"John paid a total of 
+ for a microscope by making a down payment of 
+ plus  monthly payments of 
+ each. Which
+of the following equations represents this situation?","['A.', 'B.', 'C.', 'D. \nID: 6105234d Answer']",['C'],"Choice C is correct. It’s given that John made a 
+ payment each month for  months. The total amount of these payments
+can be represented by the expression 
+. The down payment can be added to that amount to ﬁnd the total amount John
+paid, yielding the expression 
+. It’s given that John paid a total of 
+. Therefore, the expression for the total
+amount John paid can be set equal to that amount, yielding the equation 
+.
+Choice A is incorrect and may result from conceptual or calculation errors.
+Choice B is incorrect and may result from conceptual or calculation errors.
+Choice D is incorrect and may result from conceptual or calculation errors.
+Question Diﬃculty: Easy
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear equations in
+one variable
+Diﬃculty",
+7efe5495,"The solution to the given system of equations is 
+. What is the value of 
+?","['A.', 'B.', 'C.', 'D. \nID: 7efe5495 Answer']",['C'],"Choice C is correct. It's given by the ﬁrst equation in the system that 
+. Substituting 
+ for  in the equation
+ yields 
+, or 
+. 
+Choice A is incorrect and may result from conceptual or calculation errors.
+Choice B is incorrect and may result from conceptual or calculation errors.
+Choice D is incorrect and may result from conceptual or calculation errors.
+Question Diﬃculty: Medium
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Systems of two
+linear equations in
+two variables
+Diﬃculty",
+2c121b25,"Valentina bought two containers of beads. In the ﬁrst container 30% of the beads
+are red, and in the second container 70% of the beads are red. Together, the
+containers have at least 400 red beads. Which inequality shows this relationship,
+where x is the total number of beads in the ﬁrst container and y is the total number
+of beads in the second container?","['A.', 'B.', 'C.', 'D. \nID: 2c121b25 Answer']",['A'],"Choice A is correct. It is given that x is the total number of beads in the ﬁrst container and that 30% of those beads are red;
+therefore, the expression 0.3x represents the number of red beads in the ﬁrst container. It is given that y is the total number
+of beads in the second container and that 70% of those beads are red; therefore, the expression 0.7y represents the number
+of red beads in the second container. It is also given that, together, the containers have at least 400 red beads, so the
+inequality that shows this relationship is 0.3x + 0.7y ≥ 400.
+Choice B is incorrect because it represents the containers having a total of at most, rather than at least, 400 red beads.
+Choice C is incorrect and may be the result of misunderstanding how to represent a percentage of beads in each container.
+Also, the inequality shows the containers having a combined total of at most, rather than at least, 400 red beads. Choice D is
+incorrect because the percentages were not converted to decimals.
+Question Diﬃculty: Easy
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear inequalities
+in one or two
+variables
+Diﬃculty",
+83f2c3bf,Which table gives three values of  and their corresponding values of  for the given equation?,"['A.', 'B.', 'C.', 'D. \nID: 83f2c3bf Answer']",['A'],"Choice A is correct. Substituting  for  into the given equation yields 
+, or 
+. Therefore, when 
+, the
+corresponding value of  for the given equation is . Substituting  for  into the given equation yields 
+, or 
+.
+Therefore, when 
+, the corresponding value of  for the given equation is . Substituting  for  into the given equation
+yields 
+, or 
+. Therefore, when 
+, the corresponding value of  for the given equation is . Of the choices
+given, only the table in choice A gives these three values of  and their corresponding values of  for the given equation.
+Choice B is incorrect. This table gives three values of  and their corresponding values of  for the equation 
+.
+Choice C is incorrect. This table gives three values of  and their corresponding values of  for the equation 
+.
+Choice D is incorrect. This table gives three values of  and their corresponding values of  for the equation 
+.
+Question Diﬃculty: Easy",
+c50ede6d,"The total cost, in dollars, to rent a surfboard consists of a 
+ service fee and a 
+ per hour rental fee. A person rents a
+surfboard for  hours and intends to spend a maximum of 
+ to rent the surfboard. Which inequality represents this
+situation?","['A.', 'B.', 'C.', 'D. \nID: c50ede6d Answer']",['D'],"Choice D is correct. The cost of the rental fee depends on the number of hours the surfboard is rented. Multiplying  hours by
+ dollars per hour yields a rental fee of 
+ dollars. The total cost of the rental consists of the rental fee plus the 
+ dollar
+service fee, which yields a total cost of 
+ dollars. Since the person intends to spend a maximum of 
+ dollars to rent
+the surfboard, the total cost must be at most 
+ dollars. Therefore, the inequality 
+ represents this situation.
+Choice A is incorrect. This represents a situation where the rental fee, not the total cost, is at most 
+ dollars.
+Choice B is incorrect and may result from conceptual or calculation errors.
+Choice C is incorrect and may result from conceptual or calculation errors.
+Question Diﬃculty: Easy
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear inequalities
+in one or two
+variables
+Diﬃculty",
+c1bd5301,"A model predicts that a certain animal weighed 
+ pounds when it was born and that the animal gained  pounds per day
+in its ﬁrst year of life. This model is deﬁned by an equation in the form 
+, where 
+ is the predicted weight,
+in pounds, of the animal  days after it was born, and  and  are constants. What is the value of ?
+ID: c1bd5301 Answer",[],['241'],"The correct answer is 
+. For a certain animal, it's given that a model predicts the animal weighed 
+ pounds when it was
+born and gained  pounds per day in its ﬁrst year of life. It's also given that this model is deﬁned by an equation in the form
+, where 
+ is the predicted weight, in pounds, of the animal  days after it was born, and  and  are
+constants. It follows that  represents the predicted weight, in pounds, of the animal when it was born and  represents the
+predicted rate of weight gain, in pounds per day, in its ﬁrst year of life. Thus, the value of  is 
+.
+Question Diﬃculty: Medium
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear functions
+Diﬃculty",
+b23bba4c,"A shipping company charged a customer $25 to ship some small boxes and some
+large boxes. The equation above represents the relationship between a, the number
+of small boxes, and b, the number of large boxes, the customer had shipped. If the
+customer had 3 small boxes shipped, how many large boxes were shipped?","['A. 3', 'B. 4', 'C. 5', 'D. 6\nID: b23bba4c Answer']",['B'],"Choice B is correct. It’s given that a represents the number of small boxes and b represents the number of large boxes the
+customer had shipped. If the customer had 3 small boxes shipped, then 
+. Substituting 3 for a in the equation
+ yields 
+ or 
+. Subtracting 9 from both sides of the equation yields 
+. Dividing
+both sides of this equation by 4 yields 
+. Therefore, the customer had 4 large boxes shipped.
+Choices A, C, and D are incorrect. If the number of large boxes shipped is 3, then 
+. Substituting 3 for b in the given
+equation yields 
+ or 
+. Subtracting 12 from both sides of the equation and then dividing by 3
+yields 
+. However, it’s given that the number of small boxes shipped, a, is 3, not 
+, so b cannot equal 3. Similarly, if
+ or 
+, then 
+ or 
+, respectively, which is also not true.
+ 
+Question Diﬃculty: Easy
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear equations in
+two variables
+Diﬃculty",
+24854644,"What is the equation of the line that passes through the point 
+ and is parallel to the graph of 
+ in the xy-
+plane?","['A.', 'B.', 'C.', 'D. \nID: 24854644 Answer']",['B'],"Choice B is correct. The equation of a line in the xy-plane can be written in slope-intercept form 
+, where 
+ is the
+slope of the line and 
+ is its y-intercept. It’s given that the line passes through the point 
+. Therefore, 
+. It’s also
+given that the line is parallel to the graph of 
+, which means the line has the same slope as the graph of
+. The slope of the graph of 
+ is . Therefore, 
+. Substituting  for 
+ and  for  in the equation
+ yields 
+.
+Choice A is incorrect. The graph of this equation passes through the point 
+, not 
+, and has a slope of , not .
+Choice C is incorrect. The graph of this equation passes through the point 
+, not 
+.
+Choice D is incorrect. The graph of this equation passes through the point 
+, not 
+, and has a slope of , not .
+Question Diﬃculty: Easy
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear equations in
+two variables
+Diﬃculty",
+71189542,"A group of 202 people went on an overnight camping trip, taking 60 tents with
+them. Some of the tents held 2 people each, and the rest held 4 people each.
+Assuming all the tents were ﬁlled to capacity and every person got to sleep in a
+tent, exactly how many of the tents were 2-person tents?","['A. 30', 'B. 20', 'C. 19', 'D. 18\nID: 71189542 Answer']",['C'],"Choice C is correct. Let x represent the number of 2-person tents and let y represent the number of 4-person tents. It is given
+that the total number of tents was 60 and the total number of people in the group was 202. This situation can be expressed
+as a system of two equations, 
+ and 
+. The ﬁrst equation can be rewritten as 
+.
+Substituting 
+ for y in the equation 
+ yields 
+. Distributing and combining like
+terms gives 
+. Subtracting 240 from both sides of 
+ and then dividing both sides by 
+gives 
+. Therefore, the number of 2-person tents is 19.
+Alternate approach: If each of the 60 tents held 4 people, the total number of people that could be accommodated in tents
+would be 240. However, the actual number of people who slept in tents was 202. The difference of 38 accounts for the 2-
+person tents. Since each of these tents holds 2 people fewer than a 4-person tent, 
+ gives the number of 2-person
+tents.
+Choice A is incorrect. This choice may result from assuming exactly half of the tents hold 2 people. If that were true, then the
+total number of people who slept in tents would be 
+; however, the total number of people who slept in
+tents was 202, not 180. Choice B is incorrect. If 20 tents were 2-person tents, then the remaining 40 tents would be 4-person
+tents. Since all the tents were ﬁlled to capacity, the total number of people who slept in tents would be
+; however, the total number of people who slept in tents was 202, not 200. Choice D is
+incorrect. If 18 tents were 2-person tents, then the remaining 42 tents would be 4-person tents. Since all the tents were ﬁlled
+to capacity, the total number of people who slept in tents would be 
+; however, the total
+number of people who slept in tents was 202, not 204.
+Question Diﬃculty: Medium",
+dba8d38a,"A petting zoo sells two types of tickets. The standard ticket, for admission only,
+costs $5. The premium ticket, which includes admission and food to give to the
+animals, costs $12. One Saturday, the petting zoo sold a total of 250 tickets and
+collected a total of $2,300 from ticket sales. Which of the following systems of
+equations can be used to ﬁnd the number of standard tickets, s, and premium
+tickets, p, sold on that Saturday?","['A.', 'B.', 'C.', 'D. \nID: dba8d38a Answer', 'A.\nChoice B is incorrect. The second equation in the system represents the cost per standard ticket as $12, not $5, and the cost\nper premium ticket as $5, not $12. Choices C and D are incorrect. The equations represent the total collected from standard\nand premium ticket sales as $250, not $2,300, and the total number of standard and premium tickets sold as $2,300, not\n$250. Additionally, the ﬁrst equation in choice D represents the cost per standard ticket as $12, not $5, and the cost per\npremium ticket as $5, not $12.\n\xa0\nQuestion Diﬃculty: Easy']",['A'],"Choice A is correct. It’s given that the petting zoo sells two types of tickets, standard and premium, and that s represents the
+number of standard tickets sold and p represents the number of premium tickets sold. It’s also given that the petting zoo
+sold 250 tickets on one Saturday; thus, 
+. It’s also given that each standard ticket costs $5 and each premium
+ticket costs $12. Thus, the amount collected in ticket sales can be represented by 
+ for standard tickets and 
+ for
+premium tickets. On that Saturday the petting zoo collected a total of $2,300 from ticket sales; thus, 
+.
+These two equations are correctly represented in choice A.
+Choice B is incorrect. The second equation in the system represents the cost per standard ticket as $12, not $5, and the cost
+per premium ticket as $5, not $12. Choices C and D are incorrect. The equations represent the total collected from standard
+and premium ticket sales as $250, not $2,300, and the total number of standard and premium tickets sold as $2,300, not
+$250. Additionally, the ﬁrst equation in choice D represents the cost per standard ticket as $12, not $5, and the cost per
+premium ticket as $5, not $12.
+ 
+Question Diﬃculty: Easy",
+64c85440,"In North America, the standard width of a parking space is at least 7.5 feet and no
+more than 9.0 feet. A restaurant owner recently resurfaced the restaurant’s parking
+lot and wants to determine the number of parking spaces, n, in the parking lot that
+could be placed perpendicular to a curb that is 135 feet long, based on the
+standard width of a parking space. Which of the following describes all the
+possible values of n ?","['A.', 'B.', 'C.', 'D. \nID: 64c85440 Answer']",['D'],"Choice D is correct. Placing the parking spaces with the minimum width of 7.5 feet gives the maximum possible number of
+parking spaces. Thus, the maximum number that can be placed perpendicular to a 135-foot-long curb is 
+. Placing
+the parking spaces with the maximum width of 9 feet gives the minimum number of parking spaces. Thus, the minimum
+number that can be placed perpendicular to a 135-foot-long curb is 
+. Therefore, if n is the number of parking
+spaces in the lot, the range of possible values for n is 
+.
+Choices A and C are incorrect. These choices equate the length of the curb with the maximum possible number of parking
+spaces. Choice B is incorrect. This is the range of possible values for the width of a parking space instead of the range of
+possible values for the number of parking spaces.
+ 
+Question Diﬃculty: Medium
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear inequalities
+in one or two
+variables
+Diﬃculty",
+87322577,"The equation above relates the number of minutes, x, Maria spends running each
+day and the number of minutes, y, she spends biking each day. In the equation,
+what does the number 75 represent?","['A. The number of minutes spent running each day', 'B. The number of minutes spent biking each day', 'C. The total number of minutes spent running and biking each day', 'D. The number of minutes spent biking for each minute spent running\nID: 87322577 Answer']",['C'],"Choice C is correct. Maria spends x minutes running each day and y minutes biking each day. Therefore, 
+ represents
+the total number of minutes Maria spent running and biking each day. Because 
+, it follows that 75 is the total
+number of minutes that Maria spent running and biking each day.
+Choices A and B are incorrect. The number of minutes Maria spent running each day is represented by x and need not be 75.
+Similarly, the number of minutes that Maria spends biking each day is represented by y and need not be 75. The number of
+minutes Maria spends running each day and biking each day may vary; however, the total number of minutes she spends
+each day on these activities is constant and equal to 75. Choice D is incorrect. The number of minutes Maria spent biking for
+each minute spent running cannot be determined from the information provided.
+ 
+Question Diﬃculty: Easy
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear equations in
+two variables
+Diﬃculty",
+5c94e6fa,"In the given equation,  is a constant. The equation has inﬁnitely many solutions. What is the value of ?
+ID: 5c94e6fa Answer",[],['21'],"The correct answer is 
+. It's given that the equation 
+ has inﬁnitely many solutions. If an equation in one
+variable has inﬁnitely many solutions, then the equation is true for any value of the variable. Subtracting 
+ from both sides
+of the given equation yields 
+. Since this equation must be true for any value of , the value of  is 
+.
+Question Diﬃculty: Easy
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear equations in
+one variable
+Diﬃculty",
+7a5a74a6,"If x is the solution to the equation above,
+what is the value of 
+ ?","['A.', 'B.', 'C.', 'D. \nID: 7a5a74a6 Answer']",['B'],"Choice B is correct. Because 2 is a factor of both 
+ and 6, the expression 
+ can be rewritten as 
+. Substituting
+ for 
+ on the left-hand side of the given equation yields 
+, or
+. Subtracting 
+ from both sides of this equation yields 
+. Adding 11 to
+both sides of this equation yields 
+. Dividing both sides of this equation by 2 yields 
+.
+Alternate approach: Distributing 3 to the quantity 
+ on the left-hand side of the given equation and distributing 4 to the
+quantity 
+ on the right-hand side yields 
+, or 
+. Subtracting 
+ from both
+sides of this equation yields 
+. Adding 29 to both sides of this equation yields 
+. Dividing both sides of
+this equation by 2 yields 
+. Therefore, the value of 
+ is 
+, or 
+.
+Choice A is incorrect. This is the value of x, not 
+. Choices C and D are incorrect. If the value of 
+ is 
+ or 
+,
+it follows that the value of x is 
+ or 
+, respectively. However, solving the given equation for x yields 
+.
+Therefore, the value of 
+ can’t be 
+ or 
+.
+ 
+Question Diﬃculty: Medium",
+b7e6394d,"Alan drives an average of 100 miles each week. His car can travel an average of
+25 miles per gallon of gasoline. Alan would like to reduce his weekly expenditure
+on gasoline by $5. Assuming gasoline costs $4 per gallon, which equation can
+Alan use to determine how many fewer average miles, m, he should drive each
+week?","['A.', 'B.', 'C.', 'D. \nID: b7e6394d Answer']",['D'],"Choice D is correct. Since gasoline costs $4 per gallon, and since Alan’s car travels an average of 25 miles per gallon, the
+expression 
+ gives the cost, in dollars per mile, to drive the car. Multiplying 
+ by m gives the cost for Alan to drive m
+miles in his car. Alan wants to reduce his weekly spending by $5, so setting 
+m equal to 5 gives the number of miles, m,
+by which he must reduce his driving.
+Choices A, B, and C are incorrect. Choices A and B transpose the numerator and the denominator in the fraction. The fraction
+ would result in the unit miles per dollar, but the question requires a unit of dollars per mile. Choices A and C set the
+expression equal to 95 instead of 5, a mistake that may result from a misconception that Alan wants to reduce his driving by
+5 miles each week; instead, the question says he wants to reduce his weekly expenditure by $5.
+ 
+Question Diﬃculty: Hard
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear equations in
+one variable
+Diﬃculty",
+95cad55f,"A laundry service is buying detergent and fabric softener from its supplier. The
+supplier will deliver no more than 300 pounds in a shipment. Each container of
+detergent weighs 7.35  pounds, and each container of fabric softener weighs
+6.2 pounds. The service wants to buy at least twice as many containers of
+detergent as containers of fabric softener. Let d represent the number of
+containers of detergent, and let s represent the number of containers of fabric
+softener, where d and s are nonnegative integers. Which of the following systems
+of inequalities best represents this situation?","['A.', 'B.', 'C.', 'D. \nID: 95cad55f Answer']",['A'],"Choice A is correct. The number of containers in a shipment must have a weight less than or equal to 300 pounds. The total
+weight, in pounds, of detergent and fabric softener that the supplier delivers can be expressed as the weight of each
+container multiplied by the number of each type of container, which is 7.35d for detergent and 6.2s for fabric softener. Since
+this total cannot exceed 300 pounds, it follows that 
+. Also, since the laundry service wants to buy at
+least twice as many containers of detergent as containers of fabric softener, the number of containers of detergent should
+be greater than or equal to two times the number of containers of fabric softener. This can be expressed by the inequality
+.
+Choice B is incorrect because it misrepresents the relationship between the numbers of each container that the laundry
+service wants to buy. Choice C is incorrect because the ﬁrst inequality of the system incorrectly doubles the weight per
+container of detergent. The weight of each container of detergent is 7.35, not 14.7 pounds. Choice D is incorrect because it
+doubles the weight per container of detergent and transposes the relationship between the numbers of containers.
+Question Diﬃculty: Hard",
+bf36c815,"The function g is deﬁned by 
+.
+What is the value of 
+?","['A.', 'B. 0', 'C. 4', 'D. 8\nID: bf36c815 Answer']",['D'],"Choice D is correct. The value of 
+ is found by substituting 0 for x in the function g. This yields 
+, which can
+be rewritten as 
+.
+Choice A is incorrect and may result from misinterpreting the equation as 
+ instead of 
+. Choice
+B is incorrect. This is the value of x, not 
+. Choice C is incorrect and may result from calculation errors.
+ 
+Question Diﬃculty: Easy
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear functions
+Diﬃculty",
+968e9e51,"Which of the following ordered pairs 
+ is a solution to
+the system of inequalities above?","['A.', 'B.', 'C.', 'D. \nID: 968e9e51 Answer']",['D'],"Choice D is correct. The solutions to the given system of inequalities is the set of all ordered pairs 
+ that satisfy both
+inequalities in the system. For an ordered pair to satisfy the inequality 
+, the value of the ordered pair’s y-coordinate
+must be less than or equal to the value of the ordered pair’s x-coordinate. This is true of the ordered pair 
+, because
+. To satisfy the inequality 
+, the value of the ordered pair’s y-coordinate must be less than or equal to the value
+of the additive inverse of the ordered pair’s x-coordinate. This is also true of the ordered pair 
+. Because 0 is its own
+additive inverse, 
+ is the same as 
+. Therefore, the ordered pair 
+ is a solution to the given system of
+inequalities.
+Choice A is incorrect. This ordered pair satisﬁes only the inequality 
+ in the given system, not both inequalities. Choice B
+incorrect. This ordered pair satisﬁes only the inequality 
+ in the system, but not both inequalities. Choice C is
+incorrect. This ordered pair satisﬁes neither inequality.
+ 
+Question Diﬃculty: Medium
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear inequalities
+in one or two
+variables
+Diﬃculty",
+9f3cb472,"Line  in the xy-plane has a slope of 
+ and passes through the point 
+. Which equation deﬁnes line ?","['A.', 'B.', 'C.', 'D. \nID: 9f3cb472 Answer']",['D'],"Choice D is correct. The equation that deﬁnes line  in the xy-plane can be written in slope-intercept form 
+,
+where 
+ is the slope of line  and 
+ is its y-intercept. It’s given that line  has a slope of 
+. Therefore, 
+.
+Substituting 
+ for 
+ in the equation 
+ yields 
+, or 
+. It’s also given that line  passes
+through the point 
+. Substituting  for  and 
+ for  in the equation 
+ yields 
+, or 
+. Adding  to both sides of this equation yields 
+. Substituting 
+ for  in the equation 
+yields 
+.
+Choice A is incorrect and may result from conceptual or calculation errors.
+Choice B is incorrect. This equation deﬁnes a line that has a slope of , not 
+, and passes through the point 
+, not 
+.
+Choice C is incorrect. This equation deﬁnes a line that passes through the point 
+, not 
+.
+Question Diﬃculty: Medium
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear equations in
+two variables
+Diﬃculty",
+aa85b138,"A tree had a height of 6 feet when it was planted. The equation above can be used
+to ﬁnd how many years n it took the tree to reach a height of 14 feet. Which of the
+following is the best interpretation of the number 2 in this context?","['A. The number of years it took the tree to double its height', 'B. The average number of feet that the tree grew per year', 'C. The height, in feet, of the tree when the tree was 1\xa0year\xa0old', 'D. The average number of years it takes similar trees to grow 14 feet\nID: aa85b138 Answer']",['B'],"Choice B is correct. The height of the tree at a given time is equal to its height when it was planted plus the number of feet
+that the tree grew. In the given equation, 14 represents the height of the tree at the given time, and 6 represents the height of
+the tree when it was planted. It follows that 
+ represents the number of feet the tree grew from the time it was planted until
+the time it reached a height of 14 feet. Since n represents the number of years between the given time and the time the tree
+was planted, 2 must represent the average number of feet the tree grew each year.
+Choice A is incorrect and may result from interpreting the coeﬃcient 2 as doubling instead of as increasing by 2 each year.
+Choice C is incorrect. The height of the tree when it was 1 year old was 
+ feet, not 2 feet. Choice D is incorrect.
+No information is given to connect the growth of one particular tree to the growth of similar trees.
+ 
+Question Diﬃculty: Medium
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear equations in
+one variable
+Diﬃculty",
+15daa8d6,"In the given equation,  is a constant. If the equation has inﬁnitely many solutions, what is the value of ?
+ID: 15daa8d6 Answer",[],['2'],"The correct answer is . An equation with one variable, , has inﬁnitely many solutions only when both sides of the equation
+are equal for any deﬁned value of . It's given that 
+, where  is a constant. This equation can be
+rewritten as 
+. If this equation has inﬁnitely many solutions, then both sides of this equation are equal
+for any deﬁned value of . Both sides of this equation are equal for any deﬁned value of  when 
+. Therefore, if the
+equation has inﬁnitely many solutions, the value of  is .
+Alternate approach: If the given equation, 
+, has inﬁnitely many solutions, then both sides of this
+equation are equal for any value of . If 
+, then substituting  for  in 
+ yields
+, or 
+. Dividing both sides of this equation by  yields 
+.
+Question Diﬃculty: Medium
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear equations in
+one variable
+Diﬃculty",
+2f0a43b2,"If 
+, what is the value of 
+?
+ID: 2f0a43b2 Answer",[],"['.2', '1/5']","The correct answer is 
+. Since the number  can also be written as 
+, the given equation can also be written as 
+.
+This equation is equivalent to 
+. Therefore, the value of 
+ is 
+. Note that 1/5 and .2 are examples of ways to enter a
+correct answer.
+Alternate approach: Multiplying both sides of the equation 
+ by  yields 
+. Substituting 
+ for  into the
+expression 
+ yields 
+, or 
+. 
+Question Diﬃculty: Easy
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear equations in
+one variable
+Diﬃculty",
+ebf8d2b7,"A machine makes large boxes or small boxes, one at a time, for a total of 
+ minutes each day. It takes the machine 
+minutes to make a large box or  minutes to make a small box. Which equation represents the possible number of large
+boxes, , and small boxes, , the machine can make each day?","['A.', 'B.', 'C.', 'D. \nID: ebf8d2b7 Answer']",['B'],"Choice B is correct. It’s given that it takes the machine 
+ minutes to make a large box. It's also given that  represents the
+possible number of large boxes the machine can make each day. Multiplying 
+ by  gives 
+, which represents the
+amount of time spent making large boxes. It’s given that it takes the machine  minutes to make a small box. It's also given
+that  represents the possible number of small boxes the machine can make each day. Multiplying  by  gives 
+, which
+represents the amount of time spent making small boxes. Combining the amount of time spent making  large boxes and 
+small boxes yields 
+. It’s given that the machine makes boxes for a total of 
+ minutes each day. Therefore
+ represents the possible number of large boxes, , and small boxes, , the machine can make each day.
+Choice A is incorrect and may result from associating the time of 
+ minutes with small, rather than large, boxes and the
+time of  minutes with large, rather than small, boxes.
+Choice C is incorrect and may result from conceptual errors. Choice D is incorrect and may result from conceptual errors.
+Question Diﬃculty: Easy
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear equations in
+two variables
+Diﬃculty",
+997bec28,"The perimeter of an isosceles triangle is 
+ inches. Each of the two congruent sides of the triangle has a length of 
+inches. What is the length, in inches, of the third side?
+ID: 997bec28 Answer",[],['35'],"The correct answer is 
+. It’s given that the perimeter of an isosceles triangle is 
+ inches and that each of the two
+congruent sides has a length of 
+ inches. The perimeter of a triangle is the sum of the lengths of its three sides. The
+equation 
+ can be used to represent this situation, where  is the length, in inches, of the third side.
+Combining like terms on the left-hand side of this equation yields 
+. Subtracting 
+ from both sides of this
+equation yields 
+. Therefore, the length, in inches, of the third side is 
+.
+Question Diﬃculty: Easy
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear equations in
+one variable
+Diﬃculty",
+12ee1edc,"In the given equation, b is a constant. If the equation has no
+solution, what is the value of b ?","['A. 2', 'B. 4', 'C. 6', 'D. 10\nID: 12ee1edc Answer']",['A'],"Choice A is correct. This equation has no solution when there is no value of x that produces a true statement. Solving the
+given equation for x by dividing both sides by 
+ gives 
+. When 
+, the right-hand side of this
+equation will be undeﬁned, and the equation will have no solution. Therefore, when 
+, there is no value of x that satisﬁes
+the given equation.
+Choices B, C, and D are incorrect. Substituting 4, 6, and 10 for b in the given equation yields exactly one solution, rather than
+no solution, for x. For example, substituting 4 for b in the given equation yields 
+, or 
+. Dividing both sides of
+ by 2 yields 
+. Similarly, if 
+ or 
+, 
+ and 
+, respectively.
+ 
+Question Diﬃculty: Medium
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear equations in
+one variable
+Diﬃculty",
+c6b151d4,"A total of 
+ paper straws of equal length were used to construct two types of polygons: triangles and rectangles. The
+triangles and rectangles were constructed so that no two polygons had a common side. The equation 
+represents this situation, where  is the number of triangles constructed and  is the number of rectangles constructed.
+What is the best interpretation of 
+ in this context?","['A. If \n triangles were constructed, then \n rectangles were constructed.', 'B. If \n triangles were constructed, then \n paper straws were used.', 'C. If \n triangles were constructed, then \n rectangles were constructed.', 'D. If \n triangles were constructed, then \n paper straws were used.\nID: c6b151d4 Answer']",['A'],"Choice A is correct. It's given that 
+ paper straws of equal length were used to construct triangles and rectangles, where
+no two polygons had a common side. It's also given that the equation 
+ represents this situation, where  is
+the number of triangles constructed and  is the number of rectangles constructed. The equation 
+ means
+that if 
+, then 
+. Substituting 
+ for  and 
+ for  in 
+ yields 
+, or 
+, which is true. Therefore, in this context, the equation 
+ means that if 
+ triangles were
+constructed, then 
+ rectangles were constructed. 
+Choice B is incorrect and may result from conceptual errors. Choice C is incorrect and may result from conceptual errors.
+Choice D is incorrect and may result from conceptual errors.
+Question Diﬃculty: Easy
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear equations in
+two variables
+Diﬃculty",
+0d391910,"The function  is deﬁned by 
+. For what value of  does 
+?
+ID: 0d391910 Answer",[],['2'],"The correct answer is . Substituting  for 
+ in the given equation yields 
+. Dividing the left- and right-hand sides
+of this equation by  yields 
+. Therefore, the value of  is  when 
+.
+Question Diﬃculty: Easy
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear functions
+Diﬃculty",
+ee439cff,"On a car trip, Rhett and Jessica each drove for part of the trip, and the total distance they drove was under 
+ miles. Rhett
+drove at an average speed of 
+, and Jessica drove at an average speed of 
+. Which of the
+following inequalities represents this situation, where  is the number of hours Rhett drove and  is the number of hours
+Jessica drove?","['A.', 'B.', 'C.', 'D. \nID: ee439cff Answer']",['B'],"Choice B is correct. It’s given that Rhett drove at an average speed of 
+ miles per hour and that he drove for  hours.
+Multiplying 
+ miles per hour by  hours yields 
+ miles, or the distance that Rhett drove. It’s also given that Jessica drove
+at an average speed of 
+ miles per hour and that she drove for  hours. Multiplying 
+ miles per hour by  hours yields 
+miles, or the distance that Jessica drove. The total distance, in miles, that Rhett and Jessica drove can be represented by the
+expression 
+. It’s given that the total distance they drove was under 
+ miles. Therefore, the inequality
+ represents this situation.
+Choice A is incorrect. This inequality represents a situation in which the total distance Rhett and Jessica drove was over,
+rather than under, 
+ miles.
+Choice C is incorrect. This inequality represents a situation in which Rhett drove at an average speed of 
+, rather than 
+,
+miles per hour, Jessica drove at an average speed of 
+, rather than 
+, miles per hour, and the total distance they drove was
+over, rather than under, 
+ miles.
+Choice D is incorrect. This inequality represents a situation in which Rhett drove at an average speed of 
+, rather than 
+,
+miles per hour, and Jessica drove at an average speed of 
+, rather than 
+, miles per hour.
+Question Diﬃculty: Easy
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear inequalities
+in one or two
+variables
+Diﬃculty",
+8c98c834,"The equation 
+ models the relationship between the number of different
+pieces of music a certain pianist practices, y, during an x-minute practice session.
+How many pieces did the pianist practice if the session lasted 30 minutes?","['A. 1', 'B. 3', 'C. 10', 'D. 30\nID: 8c98c834 Answer']",['B'],"Choice B is correct. It’s given that the equation 
+ models the relationship between the number of different pieces of
+music a certain pianist practices, y, and the number of minutes in a practice session, x. Since it’s given that the session
+lasted 30 minutes, the number of pieces the pianist practiced can be found by substituting 30 for x in the given equation,
+which yields 
+, or 
+.
+Choices A and C are incorrect and may result from misinterpreting the values in the equation. Choice D is incorrect. This is
+the given value of x, not the value of y.
+Question Diﬃculty: Easy
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear equations in
+two variables
+Diﬃculty",
+563407e5,"A bakery sells trays of cookies. Each tray contains at least 50 cookies but no more
+than 60. Which of the following could be the total number of cookies on 4 trays of
+cookies?","['A. 165', 'B. 205', 'C. 245', 'D. 285\nID: 563407e5 Answer']",['B'],"Choice B is correct. If each tray contains the least number of cookies possible, 50 cookies, then the least number of cookies
+possible on 4 trays is 50 × 4 = 200 cookies. If each tray contains the greatest number of cookies possible, 60 cookies, then
+the greatest number of cookies possible on 4 trays is 60 × 4 = 240 cookies. If the least number of cookies on 4 trays is 200
+and the greatest number of cookies is 240, then 205 could be the total number of cookies on these 4 trays of cookies
+because 
+.
+Choices A, C, and D are incorrect. The least number of cookies on 4 trays is 200 cookies, and the greatest number of cookies
+on 4 trays is 240 cookies. The choices 165, 245, and 285 are each either less than 200 or greater than 240; therefore, they
+cannot represent the total number of cookies on 4 trays. 
+ 
+Question Diﬃculty: Easy
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear inequalities
+in one or two
+variables
+Diﬃculty",
+25e1cfed,"How many solutions does the equation 
+ have?","['A. Exactly one', 'B. Exactly two', 'C. Inﬁnitely many', 'D. Zero\nID: 25e1cfed Answer']",['C'],"Choice C is correct. Applying the distributive property to each side of the given equation yields 
+.
+Applying the commutative property of addition to the right-hand side of this equation yields 
+.
+Since the two sides of the equation are equivalent, this equation is true for any value of . Therefore, the given equation has
+inﬁnitely many solutions.
+Choice A is incorrect and may result from conceptual or calculation errors.
+Choice B is incorrect and may result from conceptual or calculation errors.
+Choice D is incorrect and may result from conceptual or calculation errors.
+Question Diﬃculty: Hard
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear equations in
+one variable
+Diﬃculty",
+317e80f9,"What is the solution 
+ to the given system of equations?","['A.', 'B.', 'C.', 'D. \nID: 317e80f9 Answer']",['A'],"Choice A is correct. The second equation in the given system deﬁnes the value of  as 
+. Substituting 
+ for  into the ﬁrst
+equation yields 
+ or 
+. Dividing each side of this equation by  yields 
+. Substituting  for  in the
+second equation yields 
+ or 
+. Therefore, the solution 
+ to the given system of equations is 
+. 
+Choice B is incorrect. Substituting 
+ for  and  for  in the second equation yields 
+, which is not true.
+Therefore, 
+ is not a solution to the given system of equations.
+Choice C is incorrect. Substituting 
+ for  and  for  in the second equation yields 
+, which is not true.
+Therefore, 
+ is not a solution to the given system of equations.
+Choice D is incorrect. Substituting 
+ for  and  for  in the second equation yields 
+, which is not true.
+Therefore, 
+ is not a solution to the given system of equations.
+Question Diﬃculty: Easy
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Systems of two
+linear equations in
+two variables
+Diﬃculty",
+3f5375d9,"The line graphed in the xy-plane below models the total cost, in dollars, for a cab ride, y, in a certain city during nonpeak
+hours based on the number of miles traveled, x.
+According to the graph, what is the cost for each additional mile traveled, in dollars,
+of a cab ride?","['A. $2.00', 'B. $2.60', 'C. $3.00', 'D. $5.00\nID: 3f5375d9 Answer']",['A'],"Choice A is correct. The cost of each additional mile traveled is represented by the slope of the given line. The slope of the
+line can be calculated by identifying two points on the line and then calculating the ratio of the change in y to the change in x
+between the two points. Using the points 
+ and 
+, the slope is equal to 
+, or 2. Therefore, the cost for each
+additional mile traveled of the cab ride is $2.00.
+Choice B is incorrect and may result from calculating the slope of the line that passes through the points 
+ and 
+.
+However, 
+ does not lie on the line shown. Choice C is incorrect. This is the y-coordinate of the y-intercept of the graph
+and represents the ﬂat fee for a cab ride before the charge for any miles traveled is added. Choice D is incorrect. This value
+represents the total cost of a 1-mile cab ride.
+Question Diﬃculty: Easy
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear functions
+Diﬃculty",
+541bef2f,"Which point 
+ is a solution to the given system of inequalities in the xy-plane?","['A.', 'B.', 'C.', 'D. \nID: 541bef2f Answer']",['D'],"Choice D is correct. A point 
+ is a solution to a system of inequalities in the xy-plane if substituting the x-coordinate and
+the y-coordinate of the point for  and , respectively, in each inequality makes both of the inequalities true. Substituting the
+x-coordinate and the y-coordinate of choice D, 
+ and , for  and , respectively, in the ﬁrst inequality in the given system,
+, yields 
+, or 
+, which is true. Substituting 
+ for  and  for  in the second inequality in the
+given system, 
+, yields 
+, or 
+, which is true. Therefore, the point 
+ is a solution
+to the given system of inequalities in the xy-plane.
+Choice A is incorrect. Substituting 
+ for  and  for  in the inequality 
+ yields 
+, or 
+, which
+is not true.
+Choice B is incorrect. Substituting  for  and 
+ for  in the inequality 
+ yields 
+, or 
+, which is not true.
+Choice C is incorrect. Substituting  for  and 
+ for  in the inequality 
+ yields 
+, or 
+, which is
+not true.
+Question Diﬃculty: Hard
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear inequalities
+in one or two
+variables
+Diﬃculty",
+620fe971,"A team of workers has been moving cargo off of a ship. The equation below models the approximate number of tons of
+cargo, y, that remains to be moved x hours after the team started working.
+The graph of this equation in the xy-plane is a line. What is the best interpretation
+of the x-intercept in this context?","['A. The team will have moved all the cargo in about 4.8 hours.', 'B. The team has been moving about 4.8 tons of cargo per hour.', 'C. The team has been moving about 25 tons of cargo per hour.', 'D. The team started with 120 tons of cargo to move.\nID: 620fe971 Answer']",['A'],"Choice A is correct. The x-intercept of the line with equation y = 120 – 25x can be found by substituting 0 for y and ﬁnding
+the value of x. When y = 0, x = 4.8, so the x-intercept is at (4.8, 0). Since y represents the number of tons of cargo remaining
+to be moved x hours after the team started working, it follows that the x-intercept refers to the team having no cargo
+remaining to be moved after 4.8 hours. In other words, the team will have moved all of the cargo after about 4.8 hours.
+Choice B is incorrect and may result from incorrectly interpreting the value 4.8. Choices C and D are incorrect and may result
+from misunderstanding the x-intercept. These statements are accurate but not directly relevant to the x-intercept.
+ 
+Question Diﬃculty: Medium
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear functions
+Diﬃculty",
+6a87902f,At how many points do the graphs of the given equations intersect in the xy-plane?,"['A. Zero', 'B. Exactly one', 'C. Exactly two', 'D. Inﬁnitely many\nID: 6a87902f Answer']",['A'],"Choice A is correct. A system of two linear equations in two variables,  and , has zero points of intersection if the lines
+represented by the equations in the xy-plane are distinct and parallel. The graphs of two lines in the xy-plane represented by
+equations in slope-intercept form, 
+, are distinct if the y-coordinates of their y-intercepts, , are different and are
+parallel if their slopes, 
+, are the same. For the two equations in the given system, 
+ and 
+, the
+values of  are 
+ and 
+, respectively, and the values of 
+ are both . Since the values of  are different, the graphs of
+these lines have different y-coordinates of the y-intercept and are distinct. Since the values of 
+ are the same, the graphs of
+these lines have the same slope and are parallel. Therefore, the graphs of the given equations are lines that intersect at zero
+points in the xy-plane.
+Choice B is incorrect. The graphs of a system of two linear equations have exactly one point of intersection if the lines
+represented by the equations have different slopes. Since the given equations represent lines with the same slope, there is
+not exactly one intersection point.
+Choice C is incorrect. The graphs of a system of two linear equations can never have exactly two intersection points.
+Choice D is incorrect. The graphs of a system of two linear equations have inﬁnitely many intersection points when the lines
+represented by the equations have the same slope and the same y-coordinate of the y-intercept. Since the given equations
+represent lines with different y-coordinates of their y-intercepts, there are not inﬁnitely many intersection points.
+Question Diﬃculty: Medium
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Systems of two
+linear equations in
+two variables
+Diﬃculty",
+b2845d88,"Which of the following is an equation of the graph
+shown in the xy-plane above?","['A.', 'B.', 'C.', 'D. \nID: b2845d88 Answer']",['A'],"Choice A is correct. The slope of the line can be found by choosing any two points on the line, such as (4, –2) and (0, –1).
+Subtracting the y-values results in –2 – (–1) = –1, the change in y. Subtracting the x-values results in 4 – 0 = 4, the change in
+x. Dividing the change in y by the change in x yields 
+, the slope. The line intersects the y-axis at (0, –1), so –1
+is the y-coordinate of the y-intercept. This information can be expressed in slope-intercept form as the equation
+.
+Choice B is incorrect and may result from incorrectly calculating the slope and then misidentifying the slope as the y-
+intercept. Choice C is incorrect and may result from misidentifying the slope as the y-intercept. Choice D is incorrect and
+may result from incorrectly calculating the slope.
+ 
+Question Diﬃculty: Easy
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear equations in
+two variables
+Diﬃculty",
+f75bd744,"In the given system of equations,  is a constant. If the system has no solution, what is the value of ?
+ID: f75bd744 Answer",[],['8'],"The correct answer is . The given system of equations can be solved using the elimination method. Multiplying both sides
+of the second equation in the given system by 
+ yields 
+, or 
+. Adding this equation to
+the ﬁrst equation in the given system, 
+, yields 
+, or
+. Subtracting 
+ from both sides of this equation yields
+, or 
+. If the given system has no solution, then
+the equation 
+ has no solution. If this equation has no solution, the coeﬃcients of  on each side of
+the equation, 
+ and 
+, must be equal, which yields the equation 
+. Dividing both sides of this equation by
+ yields 
+. Thus, if the system has no solution, the value of  is .
+Alternate approach: A system of two linear equations in two variables,  and , has no solution if the lines represented by the
+equations in the xy-plane are parallel and distinct. Lines represented by equations in the form 
+, where 
+, 
+,
+and 
+ are constant terms, are parallel if the ratio of the x-coeﬃcients is equal to the ratio of the y-coeﬃcients, and distinct if
+the ratio of the x-coeﬃcients are not equal to the ratio of the constant terms. Subtracting 
+ from both sides of the ﬁrst
+equation in the given system yields 
+, or 
+. Subtracting 
+ from
+both sides of the second equation in the given system yields 
+, or 
+. The
+ratio of the x-coeﬃcients for these equations is 
+, or 
+. The ratio of the y-coeﬃcients for these equations is 
+. The
+ratio of the constant terms for these equations is 
+, or 
+. Since the ratio of the x-coeﬃcients, 
+, is not equal to the ratio
+of the constants, 
+, the lines represented by the equations are distinct. Setting the ratio of the x-coeﬃcients equal to the
+ratio of the y-coeﬃcients yields 
+. Multiplying both sides of this equation by 
+ yields
+, or 
+. Therefore, when 
+, the lines represented by these equations are parallel.
+Thus, if the system has no solution, the value of  is .
+Question Diﬃculty: Hard
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Systems of two
+linear equations in
+two variables
+Diﬃculty",
+b450ab03,"An employee at a restaurant prepares sandwiches and salads. It takes the employee 
+ minutes to prepare a sandwich and
+ minutes to prepare a salad. The employee spends a total of 
+ minutes preparing  sandwiches and  salads. Which
+equation represents this situation?","['A.', 'B.', 'C.', 'D. \nID: b450ab03 Answer']",['B'],"Choice B is correct. It’s given that the employee takes 
+ minutes to prepare a sandwich. Multiplying 
+ by the number of
+sandwiches, , yields 
+, the amount of time the employee spends preparing  sandwiches. It’s also given that the
+employee takes 
+ minutes to prepare a salad. Multiplying 
+ by the number of salads, , yields 
+, the amount of time
+the employee spends preparing  salads. It follows that the total amount of time, in minutes, the employee spends preparing
+ sandwiches and  salads is 
+. It's given that the employee spends a total of 
+ minutes preparing 
+sandwiches and  salads. Thus, the equation 
+ represents this situation.
+Choice A is incorrect. This equation represents a situation where it takes the employee 
+ minutes, rather than 
+ minutes,
+to prepare a sandwich and 
+ minutes, rather than 
+ minutes, to prepare a salad.
+Choice C is incorrect. This equation represents a situation where it takes the employee  minute, rather than 
+ minutes, to
+prepare a sandwich and  minute, rather than 
+ minutes, to prepare a salad.
+Choice D is incorrect. This equation represents a situation where it takes the employee 
+ minutes, rather than 
+minutes, to prepare a sandwich and 
+ minutes, rather than 
+ minutes, to prepare a salad.
+Question Diﬃculty: Easy
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear equations in
+two variables
+Diﬃculty",
+b3abf40f,"The function 
+ gives the temperature, in degrees Fahrenheit, that corresponds to a temperature of  kelvins. If a
+temperature increased by 
+ kelvins, by how much did the temperature increase, in degrees Fahrenheit?","['A.', 'B.', 'C.', 'D. \nID: b3abf40f Answer']",['A'],"Choice A is correct. It’s given that the function 
+ gives the temperature, in degrees Fahrenheit,
+that corresponds to a temperature of  kelvins. A temperature that increased by 
+ kelvins means that the value of 
+increased by 
+ kelvins. It follows that an increase in  by 
+ increases 
+ by 
+, or 
+. Therefore, if a
+temperature increased by 
+ kelvins, the temperature increased by 
+ degrees Fahrenheit. 
+Choice B is incorrect and may result from conceptual or calculation errors.
+Choice C is incorrect and may result from conceptual or calculation errors.
+Choice D is incorrect and may result from conceptual or calculation errors.
+Question Diﬃculty: Hard
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear functions
+Diﬃculty",
+6ac23de7,"In the equation above, what is the
+value of x ?","['A. 25', 'B. 24', 'C. 16', 'D. 15\nID: 6ac23de7 Answer']",['A'],"Choice A is correct. Multiplying both sides of the equation by 5 results in 
+. Dividing both sides of the resulting
+equation by 4 results in 
+.
+Choice B is incorrect and may result from adding 20 and 4. Choice C is incorrect and may result from dividing 20 by 5 and
+then multiplying the result by 4. Choice D is incorrect and may result from subtracting 5 from 20.
+ 
+Question Diﬃculty: Easy
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear equations in
+one variable
+Diﬃculty",
+6e6a3241,"Which of the following graphs in the xy-plane could be used to
+solve the system of equations above?","['A.', 'B.', 'C.', 'D. \nID: 6e6a3241 Answer']",['C'],"Choice C is correct. The graph of a system of equations is the graph that shows the lines represented by each of the
+equations in the system. The x-intercept of the graph of each given equation can be found by substituting 0 for y in each
+equation: 
+, or 
+, and 
+, or 
+. The y-intercept of the graph of each equation can be found
+by substituting 0 for x in each equation: 
+, or 
+, and 
+ or 
+. Using these x- and y- intercept
+values, the line that has equation 
+ passes through the points 
+ and 
+, and the line that has equation
+ passes through the points 
+ and 
+. Only the lines in choice C pass through these points and can be
+used to solve the given system of equations.
+Choices A, B, and D are incorrect. In choices A and B, neither line passes through 
+ and 
+ or 
+ and 
+. In
+choice D, although one line passes through 
+ and 
+ the other line doesn’t pass through 
+ and 
+.
+ 
+Question Diﬃculty: Medium",
+e6cb2402,"In the given equation,  is a constant. The equation has no solution. What is the value of ?
+ID: e6cb2402 Answer",[],"['.9411', '.9412', '16/17']","The correct answer is 
+. It's given that the equation 
+ has no solution. A linear equation in the
+form 
+, where , , , and  are constants, has no solution only when the coeﬃcients of  on each side of
+the equation are equal and the constant terms aren't equal. Dividing both sides of the given equation by  yields
+, or 
+. Since the coeﬃcients of  on each side of the equation must be equal, it
+follows that the value of  is 
+. Note that 16/17, .9411, .9412, and 0.941 are examples of ways to enter a correct answer.
+Question Diﬃculty: Hard
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear equations in
+one variable
+Diﬃculty",
+e470e19d,"The function  is deﬁned by 
+. What is the x-intercept of the graph of 
+ in the xy-plane?","['A.', 'B.', 'C.', 'D. \nID: e470e19d Answer']",['D'],"Choice D is correct. The given function  is a linear function. Therefore, the graph of 
+ in the xy-plane has one x-
+intercept at the point 
+, where  is a constant. Substituting  for 
+ and  for  in the given function yields
+. Adding 
+ to both sides of this equation yields 
+. Dividing both sides of this equation by  yields
+. Therefore, the x-intercept of the graph of 
+ in the xy-plane is 
+.
+Choice A is incorrect and may result from conceptual or calculation errors.
+Choice B is incorrect and may result from conceptual or calculation errors.
+Choice C is incorrect and may result from conceptual or calculation errors.
+Question Diﬃculty: Medium
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear functions
+Diﬃculty",
+f7e39fe9,"The table shows four values of  and their corresponding values of 
+. There is a linear relationship between  and 
+that is deﬁned by the equation 
+, where 
+ is a constant. What is the value of 
+?
+ID: f7e39fe9 Answer",[],['11'],"The correct answer is 
+. It's given that 
+ is deﬁned by the equation 
+, where 
+ is a constant. It's also
+given in the table that when 
+, 
+. Substituting 
+ for  and 
+ for 
+ in the equation 
+yields, 
+. Adding 
+ to both sides of this equation yields 
+. Dividing both sides of this equation
+by 
+ yields 
+. Therefore, the value of 
+ is 
+.
+Question Diﬃculty: Medium
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear functions
+Diﬃculty",
+aff28230,"The solution to the given system of equations is 
+. What is the value of ?","['A.', 'B.', 'C.', 'D. \nID: aff28230 Answer']",['D'],"Choice D is correct. It's given by the ﬁrst equation in the given system of equations that 
+. Substituting 
+ for  in the
+second equation in the given system yields 
+, or 
+. Therefore, the value of  is 
+.
+Choice A is incorrect and may result from conceptual or calculation errors.
+Choice B is incorrect. This is the value of , not the value of .
+Choice C is incorrect and may result from conceptual or calculation errors.
+Question Diﬃculty: Easy
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Systems of two
+linear equations in
+two variables
+Diﬃculty",
+f5929f7a,"The solution to the given system of equations is 
+. What is the value of ?","['A.', 'B.', 'C.', 'D. \nID: f5929f7a Answer']",['C'],"Choice C is correct. It's given by the ﬁrst equation in the system that 
+. Substituting 
+ for  in the second
+equation in the system yields 
+. Multiplying the left-hand side of this equation by 
+ and the right-hand side by 
+yields 
+. Adding 
+ to both sides of this equation yields 
+. Multiplying both sides of this equation by
+ yields 
+.
+Choice A is incorrect and may result from conceptual or calculation errors. 
+Choice B is incorrect and may result from conceptual or calculation errors. 
+Choice D is incorrect and may result from conceptual or calculation errors. 
+Question Diﬃculty: Medium
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Systems of two
+linear equations in
+two variables
+Diﬃculty",
+6c71f3ec,"A salesperson’s total earnings consist of a base salary of  dollars per year, plus commission earnings of 
+ of the total
+sales the salesperson makes during the year. This year, the salesperson has a goal for the total earnings to be at least 
+times and at most  times the base salary. Which of the following inequalities represents all possible values of total sales ,
+in dollars, the salesperson can make this year in order to meet that goal?","['A.', 'B.', 'C.', 'D. \nID: 6c71f3ec Answer']",['B'],"Choice B is correct. It’s given that a salesperson's total earnings consist of a base salary of  dollars per year plus
+commission earnings of 
+ of the total sales the salesperson makes during the year. If the salesperson makes  dollars in
+total sales this year, the salesperson’s total earnings can be represented by the expression 
+. It’s also given that the
+salesperson has a goal for the total earnings to be at least  times and at most  times the base salary, which can be
+represented by the expressions 
+ and 
+, respectively. Therefore, this situation can be represented by the inequality
+. Subtracting  from each part of this inequality yields 
+. Dividing each part of this
+inequality by 
+ yields 
+. Therefore, the inequality 
+ represents all possible values
+of total sales , in dollars, the salesperson can make this year in order to meet their goal.
+Choice A is incorrect. This inequality represents a situation in which the total sales, rather than the total earnings, are at least
+ times and at most  times, rather than at least  times and at most  times, the base salary.
+Choice C is incorrect. This inequality represents a situation in which the total sales, rather than the total earnings, are at least
+ times and at most  times the base salary.
+Choice D is incorrect. This inequality represents a situation in which the total earnings are at least  times and at most 
+times, rather than at least  times and at most  times, the base salary.
+Question Diﬃculty: Hard
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear inequalities
+in one or two
+variables
+Diﬃculty",
+7392dfc1,"Which of the following is
+equivalent to 
+ ?","['A.', 'B.', 'C.', 'D. \nID: 7392dfc1 Answer']",['D'],"Choice D is correct. Dividing each side of the original equation by  yields 
+, which simpliﬁes to 
+.
+Choice A is incorrect. Dividing each side of the original equation by  gives 
+, which is not equivalent to 
+. Choice B is incorrect. Dividing each side of the original equation by   gives 
+, which is not equivalent to 
+. Choice C is incorrect. Dividing each side of the original equation by  gives 
+, which is not equivalent to
+. 
+ 
+Question Diﬃculty: Easy
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear equations in
+one variable
+Diﬃculty",
+93954cfa,"One pound of grapes costs $2. At this rate, how many
+dollars will c pounds of grapes cost?","['A.', 'B.', 'C.', 'D. \nID: 93954cfa Answer']",['A'],"Choice A is correct. If one pound of grapes costs $2, two pounds of grapes will cost 2 times $2, three pounds of grapes will
+cost 3 times $2, and so on. Therefore, c pounds of grapes will cost c times $2, which is 2c dollars.
+Choice B is incorrect and may result from incorrectly adding instead of multiplying. Choice C is incorrect and may result from
+assuming that c pounds cost $2, and then ﬁnding the cost per pound. Choice D is incorrect and could result from incorrectly
+assuming that 2 pounds cost $c, and then ﬁnding the cost per pound.
+ 
+Question Diﬃculty: Easy
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear equations in
+one variable
+Diﬃculty",
+5cf1bbc9,"The graph of the function , where 
+, gives the total cost , in dollars, for a certain video game system and 
+games. What is the best interpretation of the slope of the graph in this context?","['A. Each game costs \n.', 'B. The video game system costs \n.', 'C. The video game system costs \n.', 'D. Each game costs \n.\nID: 5cf1bbc9 Answer']",['A'],"Choice A is correct. The given graph is a line, and the slope of a line is deﬁned as the change in the value of  for each
+increase in the value of  by . It’s given that  represents the total cost, in dollars, and that  represents the number of
+games. Therefore, the change in the value of  for each increase in the value of  by  represents the change in total cost, in
+dollars, for each increase in the number of games by . In other words, the slope represents the cost, in dollars, per game.
+The graph shows that when the value of  increases from  to , the value of  increases from 
+ to 
+. It follows that the
+slope is 
+, or the cost per game is 
+. Thus, the best interpretation of the slope of the graph is that each game costs 
+.
+Choice B is incorrect. This is an interpretation of the y-intercept of the graph rather than the slope of the graph.
+Choice C is incorrect. The slope of the graph is the cost per game, not the cost of the video game system.
+Choice D is incorrect. Each game costs 
+, not 
+.
+Question Diﬃculty: Medium",
+74c03c21,"A bus traveled on the highway and on local roads to complete a trip of 
+. The trip took 
+. The bus traveled at
+an average speed of 
+ on the highway and an average speed of 
+ on local roads. If  is the
+time, in hours, the bus traveled on the highway and  is the time, in hours, it traveled on local roads, which system of
+equations represents this situation?","['A.', 'B.', 'C.', 'D. \nID: 74c03c21 Answer']",['B'],"Choice B is correct. If the bus traveled at an average speed of 
+ on the highway for  hours, then
+the bus traveled 
+ miles on the highway. If the bus traveled at an average speed of 
+ on local roads for  hours,
+then the bus traveled 
+ miles on local roads. It's given that the trip was 
+ miles. This can be represented by the
+equation 
+. It's also given that the trip took  hours. This can be represented by the equation 
+.
+Therefore, the system consisting of the equations 
+ and 
+ represents this situation.
+Choice A is incorrect. This system of equations represents a situation where the trip was  miles and took 
+ hours.
+Choice C is incorrect. This system of equations represents a situation where the trip was  miles and took 
+ hours, and
+the bus traveled at an average speed of 
+ on the highway and 
+ on local roads.
+Choice D is incorrect. This system of equations represents a situation where the bus traveled at an average speed of 
+ on the highway and 
+ on local roads.
+Question Diﬃculty: Medium
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Systems of two
+linear equations in
+two variables
+Diﬃculty",
+68f2cbaf,"Ty set a goal to walk at least 
+ kilometers every day to prepare for a multiday hike. On a certain day, Ty plans to walk at an
+average speed of  kilometers per hour. What is the minimum number of hours Ty must walk on that day to fulﬁll the daily
+goal?","['A.', 'B.', 'C.', 'D. \nID: 68f2cbaf Answer']",['B'],"Choice B is correct. It's given that Ty plans to walk at an average speed of  kilometers per hour. The number of kilometers
+Ty will walk is determined by the expression 
+, where  is the number of hours Ty walks. The given goal of at least 
+kilometers means that the inequality 
+ represents the situation. Dividing both sides of this inequality by  gives 
+ , which corresponds to a minimum of  hours Ty must walk. 
+Choice A is incorrect and may result from conceptual or calculation errors.
+Choice C is incorrect and may result from conceptual or calculation errors.
+Choice D is incorrect and may result from conceptual or calculation errors.
+Question Diﬃculty: Easy
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear inequalities
+in one or two
+variables
+Diﬃculty",
+8abed0fb,"What is the solution 
+ to the given
+system of equations?","['A.', 'B.', 'C.', 'D. \nID: 8abed0fb Answer']",['B'],"Choice B is correct. Since it’s given that 
+, substituting 1 for x in the ﬁrst equation yields 
+. Simplifying the
+right-hand side of this equation yields 
+, or 
+. Therefore, the ordered pair 
+ is a solution to the given system
+of equations.
+Choice A is incorrect and may result from a calculation error when substituting 1 for x in the ﬁrst equation. Choices C and D
+are incorrect. Because it’s given that 
+, x cannot equal 2 as stated in these ordered pairs.
+ 
+Question Diﬃculty: Easy
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Systems of two
+linear equations in
+two variables
+Diﬃculty",
+e1259a5a,"A system of two linear equations is graphed in the xy-plane below.
+Which of the following points is the solution to
+the system of equations?","['A.', 'B.', 'C.', 'D. \nID: e1259a5a Answer']",['A'],"Choice A is correct. The solution to this system of linear equations is the point that lies on both lines graphed, or the point of
+intersection of the two lines. According to the graphs, the point of intersection occurs when 
+ and 
+, or at the point
+.
+Choices B and D are incorrect. Each of these points lies on one line, but not on both lines in the xy-plane. Choice C is
+incorrect. This point doesn’t lie on either of the lines graphed in the xy-plane.
+ 
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Systems of two
+linear equations in
+two variables
+Diﬃculty
+Question Diﬃculty: Easy",
+b988eeec,"The functions  and  are deﬁned as 
+ and 
+. If the function  is deﬁned as
+, what is the x-coordinate of the x-intercept of the graph of 
+ in the xy-plane?
+ID: b988eeec Answer",[],['-12'],"The correct answer is 
+. It's given that the functions  and  are deﬁned as 
+ and 
+. If
+the function  is deﬁned as 
+, then substituting 
+ for 
+ and 
+ for 
+ in this
+function yields 
+. This can be rewritten as 
+, or 
+. The x-
+intercept of a graph in the xy-plane is the point on the graph where 
+. The equation representing the graph of 
+is 
+. Substituting  for  in this equation yields 
+. Subtracting 
+ from both sides of this equation
+yields 
+, or 
+. Therefore, the x-coordinate of the x-intercept of the graph of 
+ in the xy-plane is 
+.
+Question Diﬃculty: Hard
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear functions
+Diﬃculty",
+3d04de9c,"A principal used a total of 
+ ﬂags that were either blue or yellow for ﬁeld day. The principal used 
+ blue ﬂags. How many
+yellow ﬂags were used?","['A.', 'B.', 'C.', 'D. \nID: 3d04de9c Answer']",['A'],"Choice A is correct. It's given that a principal used a total of 
+ blue ﬂags and yellow ﬂags. It's also given that of the 
+ ﬂags
+used, 
+ ﬂags were blue. Subtracting the number of blue ﬂags used from the total number of ﬂags used results in the
+number of yellow ﬂags used. It follows that the number of yellow ﬂags used is 
+, or . 
+Choice B is incorrect. This is the number of blue ﬂags used. Choice C is incorrect. This is the total number of ﬂags used.
+Choice D is incorrect and may result from conceptual or calculation errors.
+Question Diﬃculty: Easy
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear equations in
+one variable
+Diﬃculty",
+70feb725,"During a month, Morgan ran r miles at 5 miles per hour and biked b miles at
+10 miles per hour. She ran and biked a total of 200 miles that month, and she biked
+for twice as many hours as she ran. What is the total number of miles that Morgan
+biked during the month?","['A. 80', 'B. 100', 'C. 120', 'D. 160\nID: 70feb725 Answer']",['D'],"Choice D is correct. The number of hours Morgan spent running or biking can be calculated by dividing the distance she
+traveled during that activity by her speed, in miles per hour, for that activity. So the number of hours she ran can be
+represented by the expression 
+, and the number of hours she biked can be represented by the expression 
+. It’s given
+that she biked for twice as many hours as she ran, so this can be represented by the equation 
+, which can be
+rewritten as 
+. It’s also given that she ran r miles and biked b miles, and that she ran and biked a total of 200 miles.
+This can be represented by the equation 
+. Substituting 
+ for b in this equation yields 
+, or 
+.
+Solving for r  yields 
+. Determining the number of miles she biked, b, can be found by substituting 40 for r in
+, which yields 
+. Solving for b yields 
+.
+Choices A, B, and C are incorrect because they don’t satisfy that Morgan biked for twice as many hours as she ran. In choice
+A, if she biked 80 miles, then she ran 120 miles, which means she biked for 8 hours and ran for 24 hours. In choice B, if she
+biked 100 miles, then she ran 100 miles, which means she biked for 10 hours and ran for 20 hours. In choice C, if she biked
+120 miles, then she ran for 80 miles, which means she biked for 12 hours and ran for 16 hours.
+ 
+Question Diﬃculty: Hard
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Systems of two
+linear equations in
+two variables
+Diﬃculty",
+8a87c2c8,"The solution to the given system of equations is 
+. What is the value of 
+?","['A.', 'B.', 'C.', 'D. \nID: 8a87c2c8 Answer']",['C'],"Choice C is correct. Adding the second equation in the given system to the ﬁrst equation in the given system yields 
+. Adding like terms in this equation yields 
+. Thus, the value of 
+ is
+.
+Choice A is incorrect. This is the value of , not 
+. Choice B is incorrect. This is the value of , not 
+.
+Choice D is incorrect and may result from conceptual or calculation errors.
+Question Diﬃculty: Medium
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Systems of two
+linear equations in
+two variables
+Diﬃculty",
+60f71697,What value of  is the solution to the given equation?,"['A.', 'B.', 'C.', 'D. \nID: 60f71697 Answer']",['A'],"Choice A is correct. Dividing both sides of the given equation by  yields 
+. Therefore, 
+ is the solution to the given
+equation.
+Choice B is incorrect. This is the solution to the equation 
+.
+Choice C is incorrect. This is the solution to the equation 
+.
+Choice D is incorrect. This is the solution to the equation 
+.
+Question Diﬃculty: Easy
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear equations in
+one variable
+Diﬃculty",
+13294295,"The graph shown models the number of candy bars a certain machine wraps with a label in  seconds. 
+ According to the graph, what is the estimated number of candy bars the machine wraps with a label per second?","['A.', 'B.', 'C.', 'D. \nID: 13294295 Answer']",['B'],"Choice B is correct. For the graph shown, the x-axis represents time, in seconds, and the y-axis represents the number of
+candy bars wrapped. The slope of a line in the xy-plane is the change in  for each -unit increase in . It follows that the
+slope of the graph shown represents the estimated number of candy bars the machine wraps with a label per second. The
+slope, 
+, of a line in the xy-plane can be found using any two points, 
+ and 
+, on the line and the slope formula
+. The graph shown passes through the points 
+ and 
+. Substituting these points for 
+ and
+, respectively, in the slope formula yields 
+, which is equivalent to 
+, or 
+. Therefore, the
+estimated number of candy bars the machine wraps with a label per second is 
+.
+Choice A is incorrect and may result from conceptual or calculation errors.
+Choice C is incorrect and may result from conceptual or calculation errors.
+Choice D is incorrect and may result from conceptual or calculation errors.
+Question Diﬃculty: Easy",
+ed92fb68,"If the system of equations above has solution 
+,
+what is the value of 
+ ?","['A. 0', 'B. 9', 'C. 18', 'D. 38\nID: ed92fb68 Answer']",['C'],"Choice C is correct. Adding the given equations yields 9x + 9y = 162. Dividing each side of the equation 9x + 9y = 162 by 9
+gives x + y = 18.
+Choice A is incorrect and may result from incorrectly adding the equations. Choice B is incorrect and may result from
+conceptual or computational errors. Choice D is incorrect. This value is equivalent to y – x.
+ 
+Question Diﬃculty: Medium
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Systems of two
+linear equations in
+two variables
+Diﬃculty",
+1a621af4,"A number  is at most  less than  times the value of . If the value of  is 
+, what is the greatest possible value of ?
+ID: 1a621af4 Answer",[],['-14'],"The correct answer is 
+. It's given that a number  is at most  less than  times the value of . Therefore,  is less than
+or equal to  less than  times the value of . The expression 
+ represents  times the value of . The expression 
+represents  less than  times the value of . Therefore,  is less than or equal to 
+. This can be shown by the
+inequality 
+. Substituting 
+ for  in this inequality yields 
+ or, 
+. Therefore, if the value of
+ is 
+, the greatest possible value of  is 
+.
+Question Diﬃculty: Hard
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear inequalities
+in one or two
+variables
+Diﬃculty",
+3e9eaffc,"Caleb used juice to make popsicles. The function 
+ approximates the volume, in ﬂuid ounces, of juice
+Caleb had remaining after making  popsicles. Which statement is the best interpretation of the y-intercept of the graph of 
+ in the xy-plane in this context?","['A. Caleb used approximately  ﬂuid ounces of juice for each popsicle.', 'B. Caleb had approximately  ﬂuid ounces of juice when he began to make the popsicles.', 'C. Caleb had approximately \n ﬂuid ounces of juice when he began to make the popsicles.', 'D. Caleb used approximately \n ﬂuid ounces of juice for each popsicle.\nID: 3e9eaffc Answer']",['C'],"Choice C is correct. An equation that deﬁnes a linear function  can be written in the form 
+, where 
+represents the slope and  represents the y-intercept, 
+, of the line of 
+ in the xy-plane. The function
+ is linear. Therefore, the graph of the given function 
+ in the xy-plane has a y-intercept of 
+.
+It’s given that 
+ gives the approximate volume, in ﬂuid ounces, of juice Caleb had remaining after making  popsicles. It
+follows that the y-intercept of 
+ means that Caleb had approximately 
+ ﬂuid ounces of juice remaining after making 
+popsicles. In other words, Caleb had approximately 
+ ﬂuid ounces of juice when he began to make the popsicles.
+Choice A is incorrect. This is an interpretation of the slope, rather than the y-intercept, of the graph of 
+ in the xy-
+plane.
+Choice B is incorrect and may result from conceptual errors. Choice D is incorrect and may result from conceptual errors.
+Question Diﬃculty: Medium
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear functions
+Diﬃculty",
+af2ba762,"According to data provided by the US Department of Energy, the average price per gallon of regular gasoline in the
+United States from September 1, 2014, to December 1, 2014, is modeled by the function F deﬁned below, where 
+ is
+the average price per gallon x months after September 1.
+The constant 2.74 in this function estimates which of the following?","['A. The average monthly decrease in the price per gallon', 'B. The difference in the average price per gallon from September\xa01,\xa02014, to December\xa01,\xa02014', 'C. The average price per gallon on September 1, 2014', 'D. The average price per gallon on December 1, 2014\nID: af2ba762 Answer']",['D'],"Choice D is correct. Since 2.74 is a constant term, it represents an actual price of gas rather than a measure of change in gas
+price. To determine what gas price it represents, ﬁnd x such that F(x) = 2.74, or 2.74 = 2.74 – 0.19(x – 3). Subtracting 2.74
+from both sides gives 0 = –0.19(x – 3). Dividing both sides by –0.19 results in 0 = x – 3, or x = 3. Therefore, the average price
+of gas is $2.74 per gallon 3 months after September 1, 2014, which is December 1, 2014.
+Choice A is incorrect. Since 2.74 is a constant, not a multiple of x, it cannot represent a rate of change in price. Choice B is
+incorrect. The difference in the average price from September 1, 2014, to December 1, 2014, is F(3) – F(0) = 2.74 – 0.19(3 –
+3) – (2.74 – 0.19(0 – 3)) = 2.74 – (2.74 + 0.57) = –0.57, which is not 2.74. Choice C is incorrect. The average price per gallon
+on September 1, 2014, is F(0) = 2.74 – 0.19(0 – 3) = 2.74 + 0.57 = 3.31, which is not 2.74.
+Question Diﬃculty: Hard
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear functions
+Diﬃculty",
+19fdf387,"In the xy-plane, the graph of 
+ intersects the graph of 
+ at
+the point 
+. What is the value of a ?","['A. 3', 'B. 6', 'C. 9', 'D. 12\nID: 19fdf387 Answer']",['C'],"Choice C is correct. Since the graph of 
+ intersects the graph of 
+ at the point 
+, the ordered pair 
+is the solution to the system of linear equations consisting of 
+ and 
+, and the value of a is the value of x
+in the solution of this system. Since both 
+and 
+ are equal to y, it follows that 
+. Subtracting x from
+and adding 6 to both sides of the equation yields 
+. Therefore, the value of a is 9.
+Choices A and B are incorrect and may result from a calculation or conceptual error in solving the system of equations
+consisting of 
+ and 
+. Choice D is incorrect. This is the value of b, not a.
+Question Diﬃculty: Medium
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Systems of two
+linear equations in
+two variables
+Diﬃculty",
+a775af14,"In the xy-plane, the graph of the linear function  contains the points 
+ and 
+. Which equation deﬁnes , where
+?","['A.', 'B.', 'C.', 'D. \nID: a775af14 Answer']",['C'],"Choice C is correct. In the xy-plane, the graph of a linear function can be written in the form 
+, where 
+represents the slope and 
+ represents the y-intercept of the graph of 
+. It’s given that the graph of the linear
+function , where 
+, in the xy-plane contains the point 
+. Thus, 
+. The slope of the graph of a line
+containing any two points 
+ and 
+ can be found using the slope formula, 
+. Since it’s given that the
+graph of the linear function  contains the points 
+ and 
+, it follows that the slope of the graph of the line
+containing these points is 
+, or  
+. Substituting  for 
+ and  for  in 
+ yields
+.
+Choice A is incorrect. This function represents a graph with a slope of  and a y-intercept of 
+.
+Choice B is incorrect. This function represents a graph with a slope of 
+ and a y-intercept of 
+.
+Choice D is incorrect. This function represents a graph with a slope of  and a y-intercept of 
+.
+Question Diﬃculty: Medium
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear functions
+Diﬃculty",
+db0107df,"The y-intercept of the graph of 
+ in the xy-plane is 
+. What is the value of ?
+ID: db0107df Answer",[],['9'],"The correct answer is . It's given that the y-intercept of the graph of 
+ in the xy-plane is 
+. Substituting 
+for  in the equation 
+ yields 
+, or 
+. Dividing both sides of this equation by  yields
+. Therefore, the value of  is .
+Question Diﬃculty: Easy
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear equations in
+two variables
+Diﬃculty",
+b9835972,"In the xy-plane, line  passes through the point 
+ and is parallel to the line represented by the equation 
+. If
+line  also passes through the point 
+, what is the value of ?
+ID: b9835972 Answer",[],['24'],"The correct answer is 
+. A line in the xy-plane can be deﬁned by the equation 
+, where 
+ is the slope of the line
+and  is the y-coordinate of the y-intercept of the line. It's given that line  passes through the point 
+. Therefore, the y-
+coordinate of the y-intercept of line  is . It's given that line  is parallel to the line represented by the equation 
+.
+Since parallel lines have the same slope, it follows that the slope of line  is . Therefore, line  can be deﬁned by an equation
+in the form 
+, where 
+ and 
+. Substituting  for 
+ and  for  in 
+ yields the equation
+, or 
+ . If line  passes through the point 
+, then when 
+, 
+ for the equation 
+.
+Substituting  for  and  for  in the equation 
+ yields 
+, or 
+.
+Question Diﬃculty: Hard
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear equations in
+two variables
+Diﬃculty
+𝓁
+𝓁
+𝓁
+𝓁
+𝓁
+𝓁
+𝓁
+𝓁",
+df32b09c,"Tom scored 85, 78, and 98 on his ﬁrst three exams in history class. Solving which
+inequality gives the score, G, on Tom’s fourth exam that will result in a mean score
+on all four exams of at least 90 ?","['A.', 'B.', 'C.', 'D. \nID: df32b09c Answer']",['C'],"Choice C is correct. The mean of the four scores (G, 85, 78, and 98) can be expressed as  
+. The inequality
+that expresses the condition that the mean score is at least 90 can therefore be written as 
+.
+Choice A is incorrect. The sum of the scores (G, 85, 78, and 98) isn’t divided by 4 to express the mean. Choice B is incorrect
+and may be the result of an algebraic error when multiplying both sides of the inequality by 4. Choice D is incorrect because
+it doesn’t include G in the mean with the other three scores.
+ 
+Question Diﬃculty: Easy
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear inequalities
+in one or two
+variables
+Diﬃculty",
+e1248a5c,"In the system of equations below, a and c are constants.
+If the system of equations has an inﬁnite number of solutions 
+, what is the
+value of a ?","['A.', 'B. 0', 'C.', 'D. \nID: e1248a5c Answer']",['D'],"Choice D is correct. A system of two linear equations has inﬁnitely many solutions if one equation is equivalent to the other.
+This means that when the two equations are written in the same form, each coeﬃcient or constant in one equation is equal
+to the corresponding coeﬃcient or constant in the other equation multiplied by the same number. The equations in the given
+system of equations are written in the same form, with x and y on the left-hand side and a constant on the right-hand side of
+the equation. The coeﬃcient of y in the second equation is equal to the coeﬃcient of y in the ﬁrst equation multiplied by 3.
+Therefore, a, the coeﬃcient of x in the second equation, must be equal to 3 times the coeﬃcient of x in the ﬁrst equation:
+, or 
+.
+Choices A, B, and C are incorrect. When 
+, 
+, or 
+, the given system of equations has one solution. 
+Question Diﬃculty: Hard
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Systems of two
+linear equations in
+two variables
+Diﬃculty",
+b8cbe394,"Sean rents a tent at a cost of 
+ per day plus a onetime insurance fee of 
+. Which equation represents the total cost , in
+dollars, to rent the tent with insurance for  days?","['A.', 'B.', 'C.', 'D. \nID: b8cbe394 Answer']",['C'],"Choice C is correct. It’s given that the cost of renting a tent is 
+ per day for  days. Multiplying the rental cost by the
+number of days yields 
+, which represents the cost of renting the tent for  days before the insurance is added. Adding
+the onetime insurance fee of 
+ to the rental cost of 
+ gives the total cost , in dollars, which can be represented by the
+equation 
+.
+Choice A is incorrect. This equation represents the total cost to rent the tent if the insurance fee was charged every day.
+Choice B is incorrect. This equation represents the total cost to rent the tent if the daily fee was 
+ for 
+ days.
+Choice D is incorrect. This equation represents the total cost to rent the tent if the daily fee was 
+ and the onetime fee
+was 
+.
+Question Diﬃculty: Easy
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear functions
+Diﬃculty",
+05bb1af9,"The graph of 
+ is shown. Which equation deﬁnes function ?","['A.', 'B.', 'C.', 'D. \nID: 05bb1af9 Answer']",['A'],"Choice A is correct. An equation for the graph shown can be written in slope-intercept form 
+, where 
+ is the
+slope of the graph and its y-intercept is 
+. Since the y-intercept of the graph shown is 
+, the value of  is . Since the
+graph also passes through the point 
+, the slope can be calculated as 
+, or 
+. Therefore, the value of 
+ is 
+.
+Substituting 
+ for 
+ and  for  in the equation 
+ yields 
+. It’s given that an equation for the
+graph shown is 
+. Substituting 
+ for  in the equation 
+  yields
+. Subtracting 
+ from both sides of this equation yields 
+.
+Choice B is incorrect and may result from conceptual or calculation errors.
+Choice C is incorrect and may result from conceptual or calculation errors.
+Choice D is incorrect and may result from conceptual or calculation errors.
+Question Diﬃculty: Hard",
+cc7ffe02,"Keenan made 
+ cups of vegetable broth. Keenan then ﬁlled  small jars and  large jars with all the vegetable broth he
+made. The equation 
+ represents this situation. Which is the best interpretation of 
+ in this context?","['A. The number of large jars Keenan ﬁlled', 'B. The number of small jars Keenan ﬁlled', 'C. The total number of cups of vegetable broth in the large jars', 'D. The total number of cups of vegetable broth in the small jars\nID: cc7ffe02 Answer']",['C'],"Choice C is correct. It’s given that the equation 
+ represents the situation where Keenan ﬁlled  small jars and
+ large jars with all the vegetable broth he made, which was 
+ cups. Therefore, 
+ represents the total number of cups of
+vegetable broth in the small jars and 
+ represents the total number of cups of vegetable broth in the large jars. 
+Choice A is incorrect. The number of large jars Keenan ﬁlled is represented by , not 
+.
+Choice B is incorrect. The number of small jars Keenan ﬁlled is represented by , not 
+.
+Choice D is incorrect. The total number of cups of vegetable broth in the small jars is represented by 
+, not 
+. 
+Question Diﬃculty: Hard
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear equations in
+two variables
+Diﬃculty",
+dae126d7,"The boiling point of water at sea level is 212 degrees Fahrenheit 
+. For every
+550 feet above sea level, the boiling point of water is lowered by about 
+. Which
+of the following equations can be used to ﬁnd the boiling point B of water, in 
+, x
+feet above sea level?","['A.', 'B.', 'C.', 'D. \nID: dae126d7 Answer']",['D'],"Choice D is correct. It’s given that the boiling point of water at sea level is 212°F and that for every 550 feet above sea level,
+the boiling point of water is lowered by about 1°F. Therefore, the change in the boiling point of water x feet above sea level is
+represented by the expression 
+. Adding this expression to the boiling point of water at sea level gives the equation
+for the boiling point B of water, in °F, x feet above sea level: 
+, or 
+.
+Choices A and B are incorrect and may result from using the boiling point of water at sea level as the rate of change and the
+rate of change as the initial boiling point of water at sea level. Choice C is incorrect and may result from representing the
+change in the boiling point of water as an increase rather than a decrease.
+ 
+Question Diﬃculty: Medium
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear functions
+Diﬃculty",
+bf5f80c6,"Which point ( , ) is a solution to the given inequality in the 
+-plane?","['A. (\n, )', 'B. ( , )', 'C. ( , )', 'D. ( , \n)\nID: bf5f80c6 Answer']",['A'],"Choice D is correct. For a point 
+ to be a solution to the given inequality in the xy-plane, the value of the point’s y-
+coordinate must be less than the value of 
+, where  is the value of the x-coordinate of the point. This is true of the
+point 
+ because 
+, or 
+. Therefore, the point 
+ is a solution to the given inequality.
+Choices A, B, and C are incorrect. None of these points are a solution to the given inequality because each point’s y-
+coordinate is greater than the value of 
+ for the point’s x-coordinate.
+Question Diﬃculty: Medium
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear inequalities
+in one or two
+variables
+Diﬃculty",
+12983c1e,"Some values of the linear function f are shown in the table above.
+Which of the following deﬁnes f ?","['A.', 'B.', 'C.', 'D. \nID: 12983c1e Answer']",['C'],"Choice C is correct. Because f is a linear function of x, the equation 
+, where m and b are constants, can be
+used to deﬁne the relationship between x and f (x). In this equation, m represents the increase in the value of f (x) for every
+increase in the value of x by 1. From the table, it can be determined that the value of f (x) increases by 8 for every increase in
+the value of x by 2. In other words, for the function f the value of m is 
+, or 4. The value of b can be found by substituting
+the values of x and f (x) from any row of the table and the value of m into the equation 
+ and solving for b. For
+example, using 
+, 
+, and 
+ yields 
+. Solving for b yields 
+. Therefore, the equation deﬁning
+the function f can be written in the form 
+.
+Choices A, B, and D are incorrect. Any equation deﬁning the linear function f must give values of f (x) for corresponding
+values of x, as shown in each row of the table. According to the table, if 
+, 
+. However, substituting 
+ into
+the equation given in choice A gives 
+, or 
+, not 13. Similarly, substituting 
+ into the equation
+given in choice B gives 
+, or 
+, not 13.
+Lastly, substituting 
+ into the equation given in choice D gives 
+, or 
+, not 13. Therefore, the
+equations in choices A, B, and D cannot deﬁne f.
+ 
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear functions
+Diﬃculty
+Question Diﬃculty: Easy",
+8368afd1,"The graph shows the possible combinations of the number of pounds of tangerines and lemons that could be purchased for
+ at a certain store. If Melvin purchased lemons and  pounds of tangerines for a total of 
+, how many pounds of
+lemons did he purchase?","['A.', 'B.', 'C.', 'D. \nID: 8368afd1 Answer']",['B'],"Choice B is correct. It's given that the graph shows the possible combinations of the number of pounds of tangerines, , and
+the number of pounds of lemons, , that could be purchased for 
+ at a certain store. If Melvin purchased lemons and 
+pounds of tangerines for a total of 
+, the number of pounds of lemons he purchased is represented by the y-coordinate of
+the point on the graph where 
+. For the graph shown, when 
+, 
+. Therefore, if Melvin purchased lemons and
+ pounds of tangerines for a total of 
+, then he purchased 
+ pounds of lemons.
+Choice A is incorrect. This is the number of pounds of tangerines Melvin purchased if he purchased tangerines and  pounds
+of lemons for a total of 
+.
+Choice C is incorrect. This is the number of pounds of lemons Melvin purchased if he purchased lemons and  pounds of
+tangerines for a total of 
+.
+Choice D is incorrect. This is the number of pounds of lemons Melvin purchased if he purchased lemons and  pound of
+tangerines for a total of 
+.
+Question Diﬃculty: Easy",
+ae2287e2,"A certain product costs a company $65 to make. The product is sold by a
+salesperson who earns a commission that is equal to 20% of the sales price of the
+product. The proﬁt the company makes for each unit is equal to the sales price
+minus the combined cost of making the product and the commission. If the sales
+price of the product is $100, which of the following equations gives the number of
+units, u, of the product the company sold to make a proﬁt of $6,840 ?","['A.', 'B.', 'C.', 'D. \nID: ae2287e2 Answer']",['A'],"Choice A is correct. The sales price of one unit of the product is given as $100. Because the salesperson is awarded a
+commission equal to 20% of the sales price, the expression 100(1 – 0.2) gives the sales price of one unit after the
+commission is deducted. It is also given that the proﬁt is equal to the sales price minus the combined cost of making the
+product, or $65, and the commission: 100(1 – 0.2) – 65. Multiplying this expression by u gives the proﬁt of u units: (100(1 –
+0.2) – 65)u. Finally, it is given that the proﬁt for u units is $6,840; therefore (100(1 – 0.2) – 65)u = $6,840.
+Choice B is incorrect. In this equation, cost is subtracted before commission and the equation gives the commission, not
+what the company retains after commission. Choice C is incorrect because the number of units is multiplied only by the cost
+but not by the sale price. Choice D is incorrect because the value 0.2 shows the commission, not what the company retains
+after commission.
+ 
+Question Diﬃculty: Hard
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear equations in
+one variable
+Diﬃculty",
+70d9516e,"A bus is traveling at a constant speed along a straight portion of road. The equation 
+ gives the distance , in feet
+from a road marker, that the bus will be  seconds after passing the marker. How many feet from the marker will the bus be 
+seconds after passing the marker?","['A.', 'B.', 'C.', 'D. \nID: 70d9516e Answer']",['C'],"Choice C is correct. It’s given that  represents the number of seconds after the bus passes the marker. Substituting  for  in
+the given equation 
+ yields 
+, or 
+. Therefore, the bus will be 
+ feet from the marker  seconds after
+passing it.
+Choice A is incorrect. This is the distance, in feet, the bus will be from the marker  second, not  seconds, after passing it.
+Choice B is incorrect and may result from conceptual or calculation errors.
+Choice D is incorrect. This is the distance, in feet, the bus will be from the marker  seconds, not  seconds, after passing it.
+Question Diﬃculty: Easy
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear functions
+Diﬃculty",
+1362ccde,"The solution to the given system of equations is 
+. What is the value of 
+?
+ID: 1362ccde Answer",[],['35'],"The correct answer is 
+. The ﬁrst equation in the given system of equations deﬁnes  as 
+. Substituting 
+ for 
+in the second equation in the given system of equations yields 
+. Applying the distributive property on
+the left-hand side of this equation yields 
+. Subtracting 
+ from each side of this equation yields
+. Subtracting  from each side of this equation yields 
+. Substituting 
+ for  in the ﬁrst equation of
+the given system of equations yields 
+, or 
+. Substituting 
+ for  and 
+ for  into the
+expression 
+ yields 
+, or 
+.
+Question Diﬃculty: Hard
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Systems of two
+linear equations in
+two variables
+Diﬃculty",
+720e51ac,"The cost , in dollars, for a manufacturer to make  rings is represented by the line shown. 
+ What is the cost, in dollars, for the manufacturer to make 
+ rings?","['A.', 'B.', 'C.', 'D. \nID: 720e51ac Answer']",['C'],"Choice C is correct. The line shown represents the cost , in dollars, for a manufacturer to make  rings. For the line shown,
+the x-axis represents the number of rings made by the manufacturer and the y-axis represents the cost, in dollars. Therefore,
+the cost, in dollars, for the manufacturer to make 
+ rings is represented by the y-coordinate of the point on the line that has
+an x-coordinate of 
+. The point on the line with an x-coordinate of 
+ has a y-coordinate of 
+. Therefore, the cost, in
+dollars, for the manufacturer to make 
+ rings is 
+.
+Choice A is incorrect and may result from conceptual or calculation errors.
+Choice B is incorrect. This is the cost, in dollars, for the manufacturer to make 
+ rings.
+Choice D is incorrect. This is the cost, in dollars, for the manufacturer to make 
+ rings.
+Question Diﬃculty: Easy",
+4de87c9a,"more than  times a number  is equal to 
+. Which equation represents this situation?","['A.', 'B.', 'C.', 'D. \nID: 4de87c9a Answer']",['D'],"Choice D is correct. The given phrase “  times a number ” can be represented by the expression 
+. The given phrase “
+more than” indicates an increase of  to a quantity. Therefore “  more than  times a number ” can be represented by the
+expression 
+. Since it’s given that  more than  times a number  is equal to 
+, it follows that 
+ is equal to 
+,
+or 
+. Therefore, the equation that represents this situation is 
+.
+Choice A is incorrect. This equation represents  times the quantity  times a number  is equal to 
+. 
+Choice B is incorrect. This equation represents  times a number  is equal to  more than 
+.
+Choice C is incorrect. This equation represents  more than  times a number  is equal to 
+.
+Question Diﬃculty: Easy
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear equations in
+one variable
+Diﬃculty",
+52cb8ea4,"If 
+ is the solution to the system of equations above,
+what is the value of 
+ ?","['A.', 'B.', 'C. 5', 'D. 13\nID: 52cb8ea4 Answer']",['B'],"Choice B is correct. Subtracting the second equation, 
+, from the ﬁrst equation, 
+, results in
+, or 
+. Combining like terms on the left-hand side of this equation yields
+.
+Choice A is incorrect and may result from miscalculating 
+ as 
+. Choice C is incorrect and may result from
+miscalculating 
+ as 5. Choice D is incorrect and may result from adding 9 to 4 instead of subtracting 9 from 4.
+ 
+Question Diﬃculty: Hard
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Systems of two
+linear equations in
+two variables
+Diﬃculty",
+c307283c,What is an equation of the graph shown?,"['A.', 'B.', 'C.', 'D. \nID: c307283c Answer']",['C'],"Choice C is correct. An equation of a line can be written in the form 
+, where 
+ is the slope of the line and 
+is the y-intercept of the line. The line shown passes through the point 
+, so 
+. The line shown also passes
+through the point 
+. The slope, 
+, of a line passing through two points 
+ and 
+ can be calculated using
+the equation 
+. For the points 
+ and 
+, this gives 
+, or 
+. Substituting 
+ for 
+and 
+ for 
+ in 
+ yields 
+, or 
+. Therefore, an equation of the graph shown is
+.
+Choice A is incorrect. This is an equation of a line with a slope of 
+, not 
+.
+Choice B is incorrect. This is an equation of a line with a slope of , not 
+.
+Choice D is incorrect. This is an equation of a line with a slope of , not 
+.
+Question Diﬃculty: Medium",
+8adf1335,"A city’s total expense budget for one year was x million dollars. The city budgeted
+y million dollars for departmental expenses and 201 million dollars for all other
+expenses. Which of the following represents the relationship between x and y in
+this context?","['A.', 'B.', 'C.', 'D. \nID: 8adf1335 Answer']",['B'],"Choice B is correct. Of the city’s total expense budget for one year, the city budgeted y million dollars for departmental
+expenses and 201 million dollars for all other expenses. This means that the expression 
+ represents the total
+expense budget, in millions of dollars, for one year. It’s given that the total expense budget for one year is x million dollars. It
+follows then that the expression 
+ is equivalent to x, or 
+. Subtracting y from both sides of this equation
+yields 
+. By the symmetric property of equality, this is the same as 
+.
+Choices A and C are incorrect. Because it’s given that the total expense budget for one year, x million dollars, is comprised of
+the departmental expenses, y million dollars, and all other expenses, 201 million dollars, the expressions 
+ and 
+both must be equivalent to a value greater than 201 million dollars. Therefore, the equations 
+and 
+aren’t true. Choice D is incorrect. The value of x must be greater than the value of y. Therefore, 
+ can’t represent
+this relationship.
+ 
+Question Diﬃculty: Easy
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear equations in
+two variables
+Diﬃculty",
+9db5b5c1,"The solution to the given system of equations is 
+. What is the value of 
+?","['A.', 'B.', 'C.', 'D. \nID: 9db5b5c1 Answer']",['C'],"Choice C is correct. It's given that 
+ and 
+ is a system of equations with a solution 
+. Adding the
+second equation in the given system to the ﬁrst equation yields 
+, which is equivalent to
+. Thus, the value of 
+ is 
+. 
+Choice A is incorrect. This represents the value of 
+.
+Choice B is incorrect. This represents the value of 
+.
+Choice D is incorrect. This represents the value of 
+.
+Question Diﬃculty: Easy
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Systems of two
+linear equations in
+two variables
+Diﬃculty",
+80da233d,"A certain elephant weighs 200 pounds at birth and gains more than 2 but less than
+3 pounds per day during its ﬁrst year. Which of the following inequalities
+represents all possible weights w, in pounds, for the elephant 365 days after birth?","['A.', 'B.', 'C.', 'D. \nID: 80da233d Answer']",['D'],"Choice D is correct. It’s given that the elephant weighs 200 pounds at birth and gains more than 2 pounds but less than 3
+pounds per day during its ﬁrst year. The inequality 
+ represents this situation, where d is the
+number of days after birth. Substituting 365 for d in the inequality gives 
+, or
+.
+Choice A is incorrect and may result from solving the inequality 
+. Choice B is incorrect and may result
+from solving the inequality for a weight range of more than 1 pound but less than 2 pounds:
+. Choice C is incorrect and may result from calculating the possible weight gained by the
+elephant during the ﬁrst year without adding the 200 pounds the elephant weighed at birth.
+ 
+Question Diﬃculty: Medium
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear inequalities
+in one or two
+variables
+Diﬃculty",
+271f7e3f,"For the function f deﬁned above, what is the
+value of 
+ ?","['A. 1', 'B. 2', 'C.', 'D. \nID: 271f7e3f Answer']",['B'],"Choice B is correct. The value of 
+ can be calculated by ﬁnding the values of 
+ and 
+. The value of 
+can be found by substituting 9 for x in the given function: 
+. This equation can be rewritten as 
+, or
+4. Then, the value of 
+ can be found by substituting 1 for x in the given function: 
+. This equation can be
+rewritten as 
+, or 2. Therefore, 
+, which is equivalent to 2.
+Choices A, C, and D are incorrect and may result from incorrectly substituting values of x in the given function or making
+computational errors.
+ 
+Question Diﬃculty: Medium
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear functions
+Diﬃculty",
+70e29454,"In the equation above, a and b are constants. If the equation has inﬁnitely many
+solutions, what are the values of a and b ?","['A. \n and', 'B. \n and', 'C. \n and', 'D. \n and \nID: 70e29454 Answer']",['B'],"Choice B is correct. Distributing the a on the left-hand side of the equation gives 3a – b – ax = –1 – 2x. Rearranging the
+terms in each side of the equation yields –ax + 3a – b = –2x –1. Since the equation has inﬁnitely many solutions, it follows
+that the coeﬃcients of x and the free terms on both sides must be equal. That is,  –a = –2, or a = 2, and 3a – b = –1.
+Substituting 2 for a in the equation 3a – b = –1 gives 3(2) – b = –1, so  b = 7.
+Choice A is incorrect and may be the result of a conceptual error when ﬁnding the value of b. Choices C and D are incorrect
+and may result from making a sign error when simplifying.
+Question Diﬃculty: Medium
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear equations in
+one variable
+Diﬃculty",
+e7b6f0d1,Which equation has the same solution as the given equation?,"['A.', 'B.', 'C.', 'D. \nID: e7b6f0d1 Answer', 'C. Since this equation is equivalent to the given equation, it has the same solution as the given equation.\nChoice A is incorrect and may result from conceptual or calculation errors.\nChoice B is incorrect and may result from conceptual or calculation errors.\nChoice D is incorrect and may result from conceptual or calculation errors.\nQuestion Diﬃculty: Easy\nAssessment\nSAT\nTest\nMath\nDomain\nAlgebra\nSkill\nLinear equations in\none variable\nDiﬃculty']",['C'],"Choice C is correct. Subtracting  from both sides of the given equation yields 
+, which is the equation given in
+choice C. Since this equation is equivalent to the given equation, it has the same solution as the given equation.
+Choice A is incorrect and may result from conceptual or calculation errors.
+Choice B is incorrect and may result from conceptual or calculation errors.
+Choice D is incorrect and may result from conceptual or calculation errors.
+Question Diﬃculty: Easy
+Assessment
+SAT
+Test
+Math
+Domain
+Algebra
+Skill
+Linear equations in
+one variable
+Diﬃculty",
+0b46bad5,"In the equation above, a and b are constants and 
+. Which of the following
+could represent the graph of the equation in the xy-plane?","['A.', 'B.', 'C.', 'D. \xa0\n\xa0\nID: 0b46bad5 Answer']",['C'],"Choice C is correct. The given equation 
+ can be rewritten in slope-intercept form, 
+, where m
+represents the slope of the line represented by the equation, and k represents the y-coordinate of the y-intercept of the line.
+Subtracting ax from both sides of the equation yields 
+, and dividing both sides of this equation by b yields
+, or 
+. With the equation now in slope-intercept form, it shows that 
+, which means the y-
+coordinate of the y-intercept is 1. It’s given that a and b are both greater than 0 (positive) and that 
+. Since 
+,
+the slope of the line must be a value between 
+ and 0. Choice C is the only graph of a line that has a y-value of the y-
+intercept that is 1 and a slope that is between 
+ and 0.
+Choices A, B, and D are incorrect because the slopes of the lines in these graphs aren’t between 
+ and 0. 
+Question Diﬃculty: Hard",

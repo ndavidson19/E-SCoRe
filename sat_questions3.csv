@@ -1,0 +1,483 @@
+question_id,question,choices,correct_answers,rationale,difficulty
+002dba45,"Line  is deﬁned by 
+. Line  is perpendicular to line  in the xy-plane. What is the slope of line ?
+ID: 002dba45 Answer",[],"['.1764', '.1765', '3/17']",,
+789975b7,"A gardener buys two kinds of fertilizer. Fertilizer A contains 60% ﬁller materials by
+weight and Fertilizer B contains 40% ﬁller materials by weight. Together, the
+fertilizers bought by the gardener contain a total of 240 pounds of ﬁller materials.
+Which equation models this relationship, where x is the number of pounds of
+Fertilizer A and y is the number of pounds of Fertilizer B?","['A. ', 'B. ', 'C. ', 'D. ID: 789975b7 Answer', 'B. Fertilizer A']",['B'],,
+3008cfc3,"The table gives the coordinates of two points on a line in the xy-plane. The y-intercept of the line is 
+, where  and 
+are constants. What is the value of ?
+ID: 3008cfc3 Answer",[],['33'],,
+f224df07,"A cargo helicopter delivers only 100-pound packages and 120-pound packages.
+For each delivery trip, the helicopter must carry at least 10 packages, and the total
+weight of the packages can be at most 1,100 pounds. What is the maximum
+number of 120-pound packages that the helicopter can carry per trip?","['A. 2', 'B. 4', 'C. 5', 'D. 6']",['C'],,
+cb8f449f,"The system of equations above has solution (x,
+y). What is the value of x ?","['A. 3', 'B. ', 'C. 4', 'D. 6']",['D'],,
+88e13c8c,"The total cost 
+, in dollars, to lease a car for 
+ months from a particular car dealership is given by
+, where  is the monthly payment, in dollars. What is the total cost to lease a car when the monthly
+payment is 
+?","['A. ', 'B. ', 'C. ', 'D. ID: 88e13c8c Answer']",['C'],,
+3cdbf026,"The graph of the equation 
+ is a line in the xy-plane, where a and k are
+constants. If the line contains the points 
+and 
+, what is the value of
+k ?","['A. ', 'B. ', 'C. 2', 'D. 3']",['A'],,
+ff501705,"In the given system of equations,  is a constant. If the system has no solution, what is the value of ?
+ID: ff501705 Answer",[],['6'],,
+8c5e6702,"A window repair specialist charges 
+ for the ﬁrst two hours of repair plus an hourly fee for each additional hour. The total
+cost for  hours of repair is 
+. Which function  gives the total cost, in dollars, for  hours of repair, where 
+?","['A. ', 'B. ', 'C. ', 'D. ID: 8c5e6702 Answer']",['A'],,
+2937ef4f,"Hector used a tool called an auger to remove corn from a storage bin at a constant
+rate. The bin contained 24,000 bushels of corn when Hector began to use
+the auger. After 5 hours of using the auger, 19,350 bushels of corn remained in the
+bin. If the auger continues to remove corn at this rate, what is the total number of
+hours Hector will have been using the auger when 12,840 bushels of corn remain in
+the bin?","['A. 3', 'B. 7', 'C. 8', 'D. 12']",['D'],,
+548a4929,"The function  is deﬁned by 
+. The graph of 
+ in the xy-plane has an x-intercept at 
+ and a y-
+intercept at 
+, where  and  are constants. What is the value of 
+?","['A. ', 'B. ', 'C. ', 'D. ID: 548a4929 Answer']",['A'],,
+9bbce683,"For line , the table shows three values of  and their corresponding values of . Line  is the result of translating line 
+down  units in the xy-plane. What is the x-intercept of line ?","['A. ', 'B. ', 'C. ', 'D. ID: 9bbce683 Answer']",['D'],,
+2b15d65f,"An economist modeled the demand Q for a certain product as a linear function of
+the selling price P. The demand was 20,000 units when the selling price was $40
+per unit, and the demand was 15,000 units when the selling price was $60 per unit.
+Based on the model, what is the demand, in units, when the selling price is $55 per
+unit?","['A. 16,250', 'B. 16,500', 'C. 16,750', 'D. 17,500']",['A'],,
+686b7244,"A certain apprentice has enrolled in 
+ hours of training courses. The equation 
+ represents this situation,
+where  is the number of on-site training courses and  is the number of online training courses this apprentice has enrolled
+in. How many more hours does each online training course take than each on-site training course?
+ID: 686b7244 Answer",[],['5'],,
+b86123af,"Hiro and Soﬁa purchased shirts and pants from a store. The price of each shirt
+purchased was the same and the price of each pair of pants purchased was the
+same. Hiro purchased 4 shirts and 2 pairs of pants for $86, and Soﬁa purchased 3
+shirts and 5 pairs of pants for $166. Which of the following systems of linear
+equations represents the situation, if x represents the price, in dollars, of each shirt
+and y represents the price, in dollars, of each pair of pants?","['A. ', 'B. ', 'C. ', 'D. ID: b86123af Answer']",['A'],,
+ee846db7,"A store sells two different-sized containers of a certain Greek yogurt. The store’s sales of this Greek yogurt totaled 
+dollars last month. The equation 
+ represents this situation, where  is the number of smaller
+containers sold and  is the number of larger containers sold. According to the equation, which of the following represents
+the price, in dollars, of each smaller container?","['A. ', 'B. ', 'C. ', 'D. ID: ee846db7 Answer']",['A'],,
+5b8a8475,"Line  is deﬁned by 
+. Line  is perpendicular to line  in the xy-plane. What is the slope of line ?","['A. ', 'B. ', 'C. ', 'D. ID: 5b8a8475 Answer']",['A'],,
+cfe67646,"The point 
+ in the xy-plane is a solution to which of the following systems of inequalities?","['A. ', 'B. ', 'C. ', 'D. ID: cfe67646 Answer', 'A. Alternate approach: Substituting  for  in the ﬁrst inequality in choice A, ']",['A'],,
+608eeb6e,"The solution to the given system of equations is 
+. What is the value of 
+?","['A. ', 'B. ', 'C. ', 'D. ID: 608eeb6e Answer']",['C'],,
+be9cb6a2,"The cost of renting a backhoe for up to 
+ days is 
+ for the ﬁrst day and 
+ for each additional day. Which of the
+following equations gives the cost , in dollars, of renting the backhoe for  days, where  is a positive integer and 
+?","['A. ', 'B. ', 'C. ', 'D. ID: be9cb6a2 Answer']",['D'],,
+097e10f5,"What value of  satisﬁes the equation 
+?","['A. ', 'B. ', 'C. ', 'D. ID: 097e10f5 Answer']",['A'],,
+84664a7c,"The front of a roller-coaster car is at the bottom of a hill and is 15 feet above the
+ground. If the front of the roller-coaster car rises at a constant rate of 8 feet per
+second, which of the following equations gives the height h, in feet, of the front of
+the roller-coaster car s seconds after it starts up the hill?","['A. ', 'B. ', 'C. ', 'D. ID: 84664a7c Answer']",['A'],,
+b0fc3166,"The graph of a system of linear equations is shown. What is the solution 
+ to the system?","['A. ', 'B. ', 'C. ', 'D. ID: b0fc3166 Answer']",['C'],,
+db422e7f,"Line  is deﬁned by 
+. Line  is perpendicular to line  in the xy-plane. What is the slope of line ?
+ID: db422e7f Answer",[],"['.5', '1/2']",,
+01682aa5,"Line  is deﬁned by 
+. Line  is perpendicular to line  in the xy-plane. What is the slope of line ?","['A. ', 'B. ', 'C. ', 'D. ID: 01682aa5 Answer']",['C'],,
+45cfb9de,"Adam’s school is a 20-minute walk or a 5-minute bus ride away from his house.
+The bus runs once every 30 minutes, and the number of minutes, w, that Adam
+waits for the bus varies between 0 and 30. Which of the following inequalities gives
+the values of w for which it would be faster for Adam to walk to school?","['A. ', 'B. ', 'C. ', 'D. ID: 45cfb9de Answer']",['D'],,
+06fc1726,"If f is the function deﬁned by 
+,
+what is the value of 
+ ?","['A. ', 'B. ', 'C. 3', 'D. 9']",['C'],,
+6863c7ce,"The given equation represents the distance , in inches, where  represents the number of seconds since an object started
+moving. Which of the following is the best interpretation of 
+ in this context?","['A. The object moved a total of \n inches.', 'B. The object moved a total of \n inches.', 'C. The object is moving at a rate of \n inches per second.', 'D. The object is moving at a rate of ']",['C'],,
+a5834ea4,"For the given linear function , which table gives three values of  and their corresponding values of 
+?","['A. ', 'B. ', 'C. ', 'D. ID: a5834ea4 Answer']",['B'],,
+0b332f00,"The function  is deﬁned by 
+. For what value of  is 
+?
+ID: 0b332f00 Answer",[],['9'],,
+349a5bc1,"What is the solution to the given equation?
+ID: 349a5bc1 Answer",[],['40'],,
+bf4a8b6a,"A company that provides whale-watching tours takes groups of 
+ people at a time. The company’s revenue is 
+ dollars per
+adult and 
+ dollars per child. If the company’s revenue for one group consisting of adults and children was 
+ dollars,
+how many people in the group were children?","['A. ', 'B. ', 'C. ', 'D. ID: bf4a8b6a Answer']",['C'],,
+7e3f8363,"In the xy-plane, the graph of the linear function  contains the points 
+ and 
+. Which equation deﬁnes , where
+?","['A. ', 'B. ', 'C. ', 'D. ID: 7e3f8363 Answer']",['C'],,
+0eae6be1,"The number  is 
+ less than the number . Which equation represents the relationship between  and ?","['A. ', 'B. ', 'C. ', 'D. ID: 0eae6be1 Answer']",['D'],,
+447fa970,"The function  is deﬁned by the equation 
+. What is the value of 
+ when 
+?
+ID: 447fa970 Answer",[],['30'],,
+0dd6227f,"At how many points do the graphs of the equations 
+ and 
+ intersect in the xy-plane?","['A. ', 'B. ', 'C. ', 'D. ID: 0dd6227f Answer']",['B'],,
+b1228811,"Marisa needs to hire at least 10 staff members for an upcoming project. The staff
+members will be made up of junior directors, who will be paid $640 per week, and
+senior directors, who will be paid $880 per week. Her budget for paying the staff
+members is no more than $9,700 per week. She must hire at least 3 junior directors
+and at least 1 senior director. Which of the following systems of inequalities
+represents the conditions described if x is the number of junior directors and y is
+the number of senior directors?","['A. ', 'B. ', 'C. ', 'D. ID: b1228811 Answer', 'B. Choices A and C are incorrect. For example, the ﬁrst condition, ']",['B'],,
+6105234d,"John paid a total of 
+ for a microscope by making a down payment of 
+ plus  monthly payments of 
+ each. Which
+of the following equations represents this situation?","['A. ', 'B. ', 'C. ', 'D. ID: 6105234d Answer']",['C'],,
+7efe5495,"The solution to the given system of equations is 
+. What is the value of 
+?","['A. ', 'B. ', 'C. ', 'D. ID: 7efe5495 Answer']",['C'],,
+2c121b25,"Valentina bought two containers of beads. In the ﬁrst container 30% of the beads
+are red, and in the second container 70% of the beads are red. Together, the
+containers have at least 400 red beads. Which inequality shows this relationship,
+where x is the total number of beads in the ﬁrst container and y is the total number
+of beads in the second container?","['A. ', 'B. ', 'C. ', 'D. ID: 2c121b25 Answer']",['A'],,
+83f2c3bf,Which table gives three values of  and their corresponding values of  for the given equation?,"['A. ', 'B. ', 'C. ', 'D. ID: 83f2c3bf Answer']",['A'],,
+c50ede6d,"The total cost, in dollars, to rent a surfboard consists of a 
+ service fee and a 
+ per hour rental fee. A person rents a
+surfboard for  hours and intends to spend a maximum of 
+ to rent the surfboard. Which inequality represents this
+situation?","['A. ', 'B. ', 'C. ', 'D. ID: c50ede6d Answer']",['D'],,
+c1bd5301,"A model predicts that a certain animal weighed 
+ pounds when it was born and that the animal gained  pounds per day
+in its ﬁrst year of life. This model is deﬁned by an equation in the form 
+, where 
+ is the predicted weight,
+in pounds, of the animal  days after it was born, and  and  are constants. What is the value of ?
+ID: c1bd5301 Answer",[],['241'],,
+b23bba4c,"A shipping company charged a customer $25 to ship some small boxes and some
+large boxes. The equation above represents the relationship between a, the number
+of small boxes, and b, the number of large boxes, the customer had shipped. If the
+customer had 3 small boxes shipped, how many large boxes were shipped?","['A. 3', 'B. 4', 'C. 5', 'D. 6']",['B'],,
+24854644,"What is the equation of the line that passes through the point 
+ and is parallel to the graph of 
+ in the xy-
+plane?","['A. ', 'B. ', 'C. ', 'D. ID: 24854644 Answer']",['B'],,
+71189542,"A group of 202 people went on an overnight camping trip, taking 60 tents with
+them. Some of the tents held 2 people each, and the rest held 4 people each.
+Assuming all the tents were ﬁlled to capacity and every person got to sleep in a
+tent, exactly how many of the tents were 2-person tents?","['A. 30', 'B. 20', 'C. 19', 'D. 18']",['C'],,
+dba8d38a,"A petting zoo sells two types of tickets. The standard ticket, for admission only,
+costs $5. The premium ticket, which includes admission and food to give to the
+animals, costs $12. One Saturday, the petting zoo sold a total of 250 tickets and
+collected a total of $2,300 from ticket sales. Which of the following systems of
+equations can be used to ﬁnd the number of standard tickets, s, and premium
+tickets, p, sold on that Saturday?","['A. ', 'B. ', 'C. ', 'D. ID: dba8d38a Answer', 'A. Choice B is incorrect. The second equation in the system represents the cost per standard ticket as $12, not $5, and the cost']",['A'],,
+64c85440,"In North America, the standard width of a parking space is at least 7.5 feet and no
+more than 9.0 feet. A restaurant owner recently resurfaced the restaurant’s parking
+lot and wants to determine the number of parking spaces, n, in the parking lot that
+could be placed perpendicular to a curb that is 135 feet long, based on the
+standard width of a parking space. Which of the following describes all the
+possible values of n ?","['A. ', 'B. ', 'C. ', 'D. ID: 64c85440 Answer']",['D'],,
+87322577,"The equation above relates the number of minutes, x, Maria spends running each
+day and the number of minutes, y, she spends biking each day. In the equation,
+what does the number 75 represent?","['A. The number of minutes spent running each day', 'B. The number of minutes spent biking each day', 'C. The total number of minutes spent running and biking each day', 'D. The number of minutes spent biking for each minute spent running']",['C'],,
+5c94e6fa,"In the given equation,  is a constant. The equation has inﬁnitely many solutions. What is the value of ?
+ID: 5c94e6fa Answer",[],['21'],,
+7a5a74a6,"If x is the solution to the equation above,
+what is the value of 
+ ?","['A. ', 'B. ', 'C. ', 'D. ID: 7a5a74a6 Answer']",['B'],,
+b7e6394d,"Alan drives an average of 100 miles each week. His car can travel an average of
+25 miles per gallon of gasoline. Alan would like to reduce his weekly expenditure
+on gasoline by $5. Assuming gasoline costs $4 per gallon, which equation can
+Alan use to determine how many fewer average miles, m, he should drive each
+week?","['A. ', 'B. ', 'C. ', 'D. ID: b7e6394d Answer']",['D'],,
+95cad55f,"A laundry service is buying detergent and fabric softener from its supplier. The
+supplier will deliver no more than 300 pounds in a shipment. Each container of
+detergent weighs 7.35  pounds, and each container of fabric softener weighs
+6.2 pounds. The service wants to buy at least twice as many containers of
+detergent as containers of fabric softener. Let d represent the number of
+containers of detergent, and let s represent the number of containers of fabric
+softener, where d and s are nonnegative integers. Which of the following systems
+of inequalities best represents this situation?","['A. ', 'B. ', 'C. ', 'D. ID: 95cad55f Answer']",['A'],,
+bf36c815,"The function g is deﬁned by 
+.
+What is the value of 
+?","['A. ', 'B. 0', 'C. 4', 'D. 8']",['D'],,
+968e9e51,"Which of the following ordered pairs 
+ is a solution to
+the system of inequalities above?","['A. ', 'B. ', 'C. ', 'D. ID: 968e9e51 Answer']",['D'],,
+9f3cb472,"Line  in the xy-plane has a slope of 
+ and passes through the point 
+. Which equation deﬁnes line ?","['A. ', 'B. ', 'C. ', 'D. ID: 9f3cb472 Answer']",['D'],,
+aa85b138,"A tree had a height of 6 feet when it was planted. The equation above can be used
+to ﬁnd how many years n it took the tree to reach a height of 14 feet. Which of the
+following is the best interpretation of the number 2 in this context?","['A. The number of years it took the tree to double its height', 'B. The average number of feet that the tree grew per year', 'C. The height, in feet, of the tree when the tree was 1\xa0year\xa0old', 'D. The average number of years it takes similar trees to grow 14 feet']",['B'],,
+15daa8d6,"In the given equation,  is a constant. If the equation has inﬁnitely many solutions, what is the value of ?
+ID: 15daa8d6 Answer",[],['2'],,
+2f0a43b2,"If 
+, what is the value of 
+?
+ID: 2f0a43b2 Answer",[],"['.2', '1/5']",,
+ebf8d2b7,"A machine makes large boxes or small boxes, one at a time, for a total of 
+ minutes each day. It takes the machine 
+minutes to make a large box or  minutes to make a small box. Which equation represents the possible number of large
+boxes, , and small boxes, , the machine can make each day?","['A. ', 'B. ', 'C. ', 'D. ID: ebf8d2b7 Answer']",['B'],,
+997bec28,"The perimeter of an isosceles triangle is 
+ inches. Each of the two congruent sides of the triangle has a length of 
+inches. What is the length, in inches, of the third side?
+ID: 997bec28 Answer",[],['35'],,
+12ee1edc,"In the given equation, b is a constant. If the equation has no
+solution, what is the value of b ?","['A. 2', 'B. 4', 'C. 6', 'D. 10']",['A'],,
+c6b151d4,"A total of 
+ paper straws of equal length were used to construct two types of polygons: triangles and rectangles. The
+triangles and rectangles were constructed so that no two polygons had a common side. The equation 
+represents this situation, where  is the number of triangles constructed and  is the number of rectangles constructed.
+What is the best interpretation of 
+ in this context?","['A. If \n triangles were constructed, then \n rectangles were constructed.', 'B. If \n triangles were constructed, then \n paper straws were used.', 'C. If \n triangles were constructed, then \n rectangles were constructed.', 'D. If ']",['A'],,
+0d391910,"The function  is deﬁned by 
+. For what value of  does 
+?
+ID: 0d391910 Answer",[],['2'],,
+ee439cff,"On a car trip, Rhett and Jessica each drove for part of the trip, and the total distance they drove was under 
+ miles. Rhett
+drove at an average speed of 
+, and Jessica drove at an average speed of 
+. Which of the
+following inequalities represents this situation, where  is the number of hours Rhett drove and  is the number of hours
+Jessica drove?","['A. ', 'B. ', 'C. ', 'D. ID: ee439cff Answer']",['B'],,
+8c98c834,"The equation 
+ models the relationship between the number of different
+pieces of music a certain pianist practices, y, during an x-minute practice session.
+How many pieces did the pianist practice if the session lasted 30 minutes?","['A. 1', 'B. 3', 'C. 10', 'D. 30']",['B'],,
+563407e5,"A bakery sells trays of cookies. Each tray contains at least 50 cookies but no more
+than 60. Which of the following could be the total number of cookies on 4 trays of
+cookies?","['A. 165', 'B. 205', 'C. 245', 'D. 285']",['B'],,
+25e1cfed,"How many solutions does the equation 
+ have?","['A. Exactly one', 'B. Exactly two', 'C. Inﬁnitely many', 'D. Zero']",['C'],,
+317e80f9,"What is the solution 
+ to the given system of equations?","['A. ', 'B. ', 'C. ', 'D. ID: 317e80f9 Answer']",['A'],,
+3f5375d9,"The line graphed in the xy-plane below models the total cost, in dollars, for a cab ride, y, in a certain city during nonpeak
+hours based on the number of miles traveled, x.
+According to the graph, what is the cost for each additional mile traveled, in dollars,
+of a cab ride?","['A. $2.00', 'B. $2.60', 'C. $3.00', 'D. $5.00']",['A'],,
+541bef2f,"Which point 
+ is a solution to the given system of inequalities in the xy-plane?","['A. ', 'B. ', 'C. ', 'D. ID: 541bef2f Answer']",['D'],,
+620fe971,"A team of workers has been moving cargo off of a ship. The equation below models the approximate number of tons of
+cargo, y, that remains to be moved x hours after the team started working.
+The graph of this equation in the xy-plane is a line. What is the best interpretation
+of the x-intercept in this context?","['A. The team will have moved all the cargo in about 4.8 hours.', 'B. The team has been moving about 4.8 tons of cargo per hour.', 'C. The team has been moving about 25 tons of cargo per hour.', 'D. The team started with 120 tons of cargo to move.']",['A'],,
+6a87902f,At how many points do the graphs of the given equations intersect in the xy-plane?,"['A. Zero', 'B. Exactly one', 'C. Exactly two', 'D. Inﬁnitely many']",['A'],,
+b2845d88,"Which of the following is an equation of the graph
+shown in the xy-plane above?","['A. ', 'B. ', 'C. ', 'D. ID: b2845d88 Answer']",['A'],,
+f75bd744,"In the given system of equations,  is a constant. If the system has no solution, what is the value of ?
+ID: f75bd744 Answer",[],['8'],,
+b450ab03,"An employee at a restaurant prepares sandwiches and salads. It takes the employee 
+ minutes to prepare a sandwich and
+ minutes to prepare a salad. The employee spends a total of 
+ minutes preparing  sandwiches and  salads. Which
+equation represents this situation?","['A. ', 'B. ', 'C. ', 'D. ID: b450ab03 Answer']",['B'],,
+b3abf40f,"The function 
+ gives the temperature, in degrees Fahrenheit, that corresponds to a temperature of  kelvins. If a
+temperature increased by 
+ kelvins, by how much did the temperature increase, in degrees Fahrenheit?","['A. ', 'B. ', 'C. ', 'D. ID: b3abf40f Answer']",['A'],,
+6ac23de7,"In the equation above, what is the
+value of x ?","['A. 25', 'B. 24', 'C. 16', 'D. 15']",['A'],,
+6e6a3241,"Which of the following graphs in the xy-plane could be used to
+solve the system of equations above?","['A. ', 'B. ', 'C. ', 'D. ID: 6e6a3241 Answer']",['C'],,
+e6cb2402,"In the given equation,  is a constant. The equation has no solution. What is the value of ?
+ID: e6cb2402 Answer",[],"['.9411', '.9412', '16/17']",,
+e470e19d,"The function  is deﬁned by 
+. What is the x-intercept of the graph of 
+ in the xy-plane?","['A. ', 'B. ', 'C. ', 'D. ID: e470e19d Answer']",['D'],,
+f7e39fe9,"The table shows four values of  and their corresponding values of 
+. There is a linear relationship between  and 
+that is deﬁned by the equation 
+, where 
+ is a constant. What is the value of 
+?
+ID: f7e39fe9 Answer",[],['11'],,
+aff28230,"The solution to the given system of equations is 
+. What is the value of ?","['A. ', 'B. ', 'C. ', 'D. ID: aff28230 Answer']",['D'],,
+f5929f7a,"The solution to the given system of equations is 
+. What is the value of ?","['A. ', 'B. ', 'C. ', 'D. ID: f5929f7a Answer']",['C'],,
+6c71f3ec,"A salesperson’s total earnings consist of a base salary of  dollars per year, plus commission earnings of 
+ of the total
+sales the salesperson makes during the year. This year, the salesperson has a goal for the total earnings to be at least 
+times and at most  times the base salary. Which of the following inequalities represents all possible values of total sales ,
+in dollars, the salesperson can make this year in order to meet that goal?","['A. ', 'B. ', 'C. ', 'D. ID: 6c71f3ec Answer']",['B'],,
+7392dfc1,"Which of the following is
+equivalent to 
+ ?","['A. ', 'B. ', 'C. ', 'D. ID: 7392dfc1 Answer']",['D'],,
+93954cfa,"One pound of grapes costs $2. At this rate, how many
+dollars will c pounds of grapes cost?","['A. ', 'B. ', 'C. ', 'D. ID: 93954cfa Answer']",['A'],,
+5cf1bbc9,"The graph of the function , where 
+, gives the total cost , in dollars, for a certain video game system and 
+games. What is the best interpretation of the slope of the graph in this context?","['A. Each game costs \n.', 'B. The video game system costs \n.', 'C. The video game system costs \n.', 'D. Each game costs ']",['A'],,
+74c03c21,"A bus traveled on the highway and on local roads to complete a trip of 
+. The trip took 
+. The bus traveled at
+an average speed of 
+ on the highway and an average speed of 
+ on local roads. If  is the
+time, in hours, the bus traveled on the highway and  is the time, in hours, it traveled on local roads, which system of
+equations represents this situation?","['A. ', 'B. ', 'C. ', 'D. ID: 74c03c21 Answer']",['B'],,
+68f2cbaf,"Ty set a goal to walk at least 
+ kilometers every day to prepare for a multiday hike. On a certain day, Ty plans to walk at an
+average speed of  kilometers per hour. What is the minimum number of hours Ty must walk on that day to fulﬁll the daily
+goal?","['A. ', 'B. ', 'C. ', 'D. ID: 68f2cbaf Answer']",['B'],,
+8abed0fb,"What is the solution 
+ to the given
+system of equations?","['A. ', 'B. ', 'C. ', 'D. ID: 8abed0fb Answer']",['B'],,
+e1259a5a,"A system of two linear equations is graphed in the xy-plane below.
+Which of the following points is the solution to
+the system of equations?","['A. ', 'B. ', 'C. ', 'D. ID: e1259a5a Answer']",['A'],,
+b988eeec,"The functions  and  are deﬁned as 
+ and 
+. If the function  is deﬁned as
+, what is the x-coordinate of the x-intercept of the graph of 
+ in the xy-plane?
+ID: b988eeec Answer",[],['-12'],,
+3d04de9c,"A principal used a total of 
+ ﬂags that were either blue or yellow for ﬁeld day. The principal used 
+ blue ﬂags. How many
+yellow ﬂags were used?","['A. ', 'B. ', 'C. ', 'D. ID: 3d04de9c Answer']",['A'],,
+70feb725,"During a month, Morgan ran r miles at 5 miles per hour and biked b miles at
+10 miles per hour. She ran and biked a total of 200 miles that month, and she biked
+for twice as many hours as she ran. What is the total number of miles that Morgan
+biked during the month?","['A. 80', 'B. 100', 'C. 120', 'D. 160']",['D'],,
+8a87c2c8,"The solution to the given system of equations is 
+. What is the value of 
+?","['A. ', 'B. ', 'C. ', 'D. ID: 8a87c2c8 Answer']",['C'],,
+60f71697,What value of  is the solution to the given equation?,"['A. ', 'B. ', 'C. ', 'D. ID: 60f71697 Answer']",['A'],,
+13294295,"The graph shown models the number of candy bars a certain machine wraps with a label in  seconds. 
+ According to the graph, what is the estimated number of candy bars the machine wraps with a label per second?","['A. ', 'B. ', 'C. ', 'D. ID: 13294295 Answer']",['B'],,
+ed92fb68,"If the system of equations above has solution 
+,
+what is the value of 
+ ?","['A. 0', 'B. 9', 'C. 18', 'D. 38']",['C'],,
+1a621af4,"A number  is at most  less than  times the value of . If the value of  is 
+, what is the greatest possible value of ?
+ID: 1a621af4 Answer",[],['-14'],,
+3e9eaffc,"Caleb used juice to make popsicles. The function 
+ approximates the volume, in ﬂuid ounces, of juice
+Caleb had remaining after making  popsicles. Which statement is the best interpretation of the y-intercept of the graph of 
+ in the xy-plane in this context?","['A. Caleb used approximately  ﬂuid ounces of juice for each popsicle.', 'B. Caleb had approximately  ﬂuid ounces of juice when he began to make the popsicles.', 'C. Caleb had approximately \n ﬂuid ounces of juice when he began to make the popsicles.', 'D. Caleb used approximately ']",['C'],,
+af2ba762,"According to data provided by the US Department of Energy, the average price per gallon of regular gasoline in the
+United States from September 1, 2014, to December 1, 2014, is modeled by the function F deﬁned below, where 
+ is
+the average price per gallon x months after September 1.
+The constant 2.74 in this function estimates which of the following?","['A. The average monthly decrease in the price per gallon', 'B. The difference in the average price per gallon from September\xa01,\xa02014, to December\xa01,\xa02014', 'C. The average price per gallon on September 1, 2014', 'D. The average price per gallon on December 1, 2014']",['D'],,
+19fdf387,"In the xy-plane, the graph of 
+ intersects the graph of 
+ at
+the point 
+. What is the value of a ?","['A. 3', 'B. 6', 'C. 9', 'D. 12']",['C'],,
+a775af14,"In the xy-plane, the graph of the linear function  contains the points 
+ and 
+. Which equation deﬁnes , where
+?","['A. ', 'B. ', 'C. ', 'D. ID: a775af14 Answer']",['C'],,
+db0107df,"The y-intercept of the graph of 
+ in the xy-plane is 
+. What is the value of ?
+ID: db0107df Answer",[],['9'],,
+b9835972,"In the xy-plane, line  passes through the point 
+ and is parallel to the line represented by the equation 
+. If
+line  also passes through the point 
+, what is the value of ?
+ID: b9835972 Answer",[],['24'],,
+df32b09c,"Tom scored 85, 78, and 98 on his ﬁrst three exams in history class. Solving which
+inequality gives the score, G, on Tom’s fourth exam that will result in a mean score
+on all four exams of at least 90 ?","['A. ', 'B. ', 'C. ', 'D. ID: df32b09c Answer']",['C'],,
+e1248a5c,"In the system of equations below, a and c are constants.
+If the system of equations has an inﬁnite number of solutions 
+, what is the
+value of a ?","['A. ', 'B. 0', 'C. ', 'D. ID: e1248a5c Answer']",['D'],,
+b8cbe394,"Sean rents a tent at a cost of 
+ per day plus a onetime insurance fee of 
+. Which equation represents the total cost , in
+dollars, to rent the tent with insurance for  days?","['A. ', 'B. ', 'C. ', 'D. ID: b8cbe394 Answer']",['C'],,
+05bb1af9,"The graph of 
+ is shown. Which equation deﬁnes function ?","['A. ', 'B. ', 'C. ', 'D. ID: 05bb1af9 Answer']",['A'],,
+cc7ffe02,"Keenan made 
+ cups of vegetable broth. Keenan then ﬁlled  small jars and  large jars with all the vegetable broth he
+made. The equation 
+ represents this situation. Which is the best interpretation of 
+ in this context?","['A. The number of large jars Keenan ﬁlled', 'B. The number of small jars Keenan ﬁlled', 'C. The total number of cups of vegetable broth in the large jars', 'D. The total number of cups of vegetable broth in the small jars']",['C'],,
+dae126d7,"The boiling point of water at sea level is 212 degrees Fahrenheit 
+. For every
+550 feet above sea level, the boiling point of water is lowered by about 
+. Which
+of the following equations can be used to ﬁnd the boiling point B of water, in 
+, x
+feet above sea level?","['A. ', 'B. ', 'C. ', 'D. ID: dae126d7 Answer']",['D'],,
+bf5f80c6,"Which point ( , ) is a solution to the given inequality in the 
+-plane?","['A. (\n, )', 'B. ( , )', 'C. ( , )', 'D. ( , ']",['A'],,
+12983c1e,"Some values of the linear function f are shown in the table above.
+Which of the following deﬁnes f ?","['A. ', 'B. ', 'C. ', 'D. ID: 12983c1e Answer']",['C'],,
+8368afd1,"The graph shows the possible combinations of the number of pounds of tangerines and lemons that could be purchased for
+ at a certain store. If Melvin purchased lemons and  pounds of tangerines for a total of 
+, how many pounds of
+lemons did he purchase?","['A. ', 'B. ', 'C. ', 'D. ID: 8368afd1 Answer']",['B'],,
+ae2287e2,"A certain product costs a company $65 to make. The product is sold by a
+salesperson who earns a commission that is equal to 20% of the sales price of the
+product. The proﬁt the company makes for each unit is equal to the sales price
+minus the combined cost of making the product and the commission. If the sales
+price of the product is $100, which of the following equations gives the number of
+units, u, of the product the company sold to make a proﬁt of $6,840 ?","['A. ', 'B. ', 'C. ', 'D. ID: ae2287e2 Answer']",['A'],,
+70d9516e,"A bus is traveling at a constant speed along a straight portion of road. The equation 
+ gives the distance , in feet
+from a road marker, that the bus will be  seconds after passing the marker. How many feet from the marker will the bus be 
+seconds after passing the marker?","['A. ', 'B. ', 'C. ', 'D. ID: 70d9516e Answer']",['C'],,
+1362ccde,"The solution to the given system of equations is 
+. What is the value of 
+?
+ID: 1362ccde Answer",[],['35'],,
+720e51ac,"The cost , in dollars, for a manufacturer to make  rings is represented by the line shown. 
+ What is the cost, in dollars, for the manufacturer to make 
+ rings?","['A. ', 'B. ', 'C. ', 'D. ID: 720e51ac Answer']",['C'],,
+4de87c9a,"more than  times a number  is equal to 
+. Which equation represents this situation?","['A. ', 'B. ', 'C. ', 'D. ID: 4de87c9a Answer']",['D'],,
+52cb8ea4,"If 
+ is the solution to the system of equations above,
+what is the value of 
+ ?","['A. ', 'B. ', 'C. 5', 'D. 13']",['B'],,
+c307283c,What is an equation of the graph shown?,"['A. ', 'B. ', 'C. ', 'D. ID: c307283c Answer']",['C'],,
+8adf1335,"A city’s total expense budget for one year was x million dollars. The city budgeted
+y million dollars for departmental expenses and 201 million dollars for all other
+expenses. Which of the following represents the relationship between x and y in
+this context?","['A. ', 'B. ', 'C. ', 'D. ID: 8adf1335 Answer']",['B'],,
+9db5b5c1,"The solution to the given system of equations is 
+. What is the value of 
+?","['A. ', 'B. ', 'C. ', 'D. ID: 9db5b5c1 Answer']",['C'],,
+80da233d,"A certain elephant weighs 200 pounds at birth and gains more than 2 but less than
+3 pounds per day during its ﬁrst year. Which of the following inequalities
+represents all possible weights w, in pounds, for the elephant 365 days after birth?","['A. ', 'B. ', 'C. ', 'D. ID: 80da233d Answer']",['D'],,
+271f7e3f,"For the function f deﬁned above, what is the
+value of 
+ ?","['A. 1', 'B. 2', 'C. ', 'D. ID: 271f7e3f Answer']",['B'],,
+70e29454,"In the equation above, a and b are constants. If the equation has inﬁnitely many
+solutions, what are the values of a and b ?","['A. and', 'B. and', 'C. and', 'D. and ']",['B'],,
+e7b6f0d1,Which equation has the same solution as the given equation?,"['A. ', 'B. ', 'C. ', 'D. ID: e7b6f0d1 Answer', 'C. Since this equation is equivalent to the given equation, it has the same solution as the given equation.']",['C'],,
+0b46bad5,"In the equation above, a and b are constants and 
+. Which of the following
+could represent the graph of the equation in the xy-plane?","['A. ', 'B. ', 'C. ', 'D. ID: 0b46bad5 Answer']",['C'],,

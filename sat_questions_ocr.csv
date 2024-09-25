@@ -1,0 +1,69 @@
+question_id,question,choices,correct_answers,rationale,difficulty
+00O2dba45,"Line kis defined by y = —te + 5. Line 7 is perpendicular to line & in the xy-plane. What is the slope of line 7?
+
+ID: 002dba45 Answer",[],"['.1764', '.1765', '3/17']","The correct answer is +. It's given that line 7 is perpendicular to line k in the xy-plane. This means that the slope of line 7 is
+the negative reciprocal of the slope of line k. The equation of line k, y = -te + 5, is written in slope-intercept form
+
+y = mz + b, where mis the slope of the line and b is the y-coordinate of the y-intercept of the line. It follows that the slope
+of line kis — if. The negative reciprocal of a number is —1 divided by the number. Therefore, the negative reciprocal of
+
+—2 is —, or +. Thus, the slope of line 7 is +. Note that 3/17, .1764, .1765, and 0.176 are examples of ways to enter a
+3
+
+correct answer.",Medium
+789975b7,"A gardener buys two kinds of fertilizer. Fertilizer A contains 60% filler materials by
+weight and Fertilizer B contains 40% filler materials by weight. Together, the
+fertilizers bought by the gardener contain a total of 240 pounds of filler materials.
+Which equation models this relationship, where x is the number of pounds of
+Fertilizer A and y is the number of pounds of Fertilizer B?","['A. 0.4x+0.6y =240', 'B. 0.6x+0.4y =240', 'C. 40x +60y =240', 'D. 60x +40y = 240\n\nID: 789975b7 Answer', 'B. Fertilizer A']",['B'],"Choice B is correct. Since Fertilizer A contains 60% filler materials by weight, it follows that x pounds of Fertilizer A consists
+of 0.6x pounds of filler materials. Similarly, y pounds of Fertilizer B consists of 0.4y pounds of filler materials. When x pounds
+of Fertilizer A and y pounds of Fertilizer B are combined, the result is 240 pounds of filler materials. Therefore, the total
+amount, in pounds, of filler materials in a mixture of x pounds of Fertilizer A and y pounds of Fertilizer B can be expressed as
+
+0.6x +0.4y = 240.
+
+Choice A is incorrect. This choice transposes the percentages of filler materials for Fertilizer A and Fertilizer B. Fertilizer A
+consists of 0.6x pounds of filler materials and Fertilizer B consists of 0.4y pounds of filler materials. Therefore, 0.6x +0.4y
+
+is equal to 240, not 0.4x +0.6y. Choice C is incorrect. This choice transposes the percentages of filler materials for
+
+Fertilizer A and Fertilizer B and incorrectly represents how to take the percentage of a value mathematically. Choice D is
+incorrect. This choice incorrectly represents how to take the percentage of a value mathematically. Fertilizer A consists of
+0.6x pounds of filler materials, not 60x pounds of filler materials, and Fertilizer B consists of 0.4y pounds of filler materials,
+not 40y pounds of filler materials.",Easy
+3008cfc3,"The table gives the coordinates of two points on a line in the xy-plane. The y-intercept of the line is (k — 5, b), where k and b
+are constants. What is the value of b?
+
+ID: 3008cfc3 Answer",[],['33'],"The correct answer is 33. It's given in the table that the coordinates of two points on a line in the xy-plane are (k, 13) and
+(k + 7, —15). The y-intercept is another point on the line. The slope computed using any pair of points from the line will be
+the same. The slope of a line, m, between any two points, (21, yi) and (22, yz), on the line can be calculated using the
+
+slope formula, m = ee. It follows that the slope of the line with the given points from the table, (k, 13) and
+
+(k+ 7, —15),ism = =. which is equivalent tom = = orm = —4. It's given that the y-intercept of the line is
+(k — 5, b). Substituting —4 for m and the coordinates of the points (k — 5, b) and (k, 13) into the slope formula yields
+
+—4= Ries’ which is equivalent to —4 = eee or —4 = Bo Multiplying both sides of this equation by 5 yields
+
+—20 = 13 — b. Subtracting 13 from both sides of this equation yields —33 = —b. Dividing both sides of this equation by
+—1 yields b = 33. Therefore, the value of bis 33.",Hard
+f,"A cargo helicopter delivers only 100-pound packages and 120-pound packages.
+For each delivery trip, the helicopter must carry at least 10 packages, and the total
+weight of the packages can be at most 1,100 pounds. What is the maximum
+number of 120-pound packages that the helicopter can carry per trip?","['A. 2', 'B. 4', 'C. 5', 'D. 6']",['C'],"Choice C is correct. Let a equal the number of 120-pound packages, and let b equal the number of 100-pound packages. It’s
+given that the total weight of the packages can be at most 1,100 pounds: the inequality 120a@+100b < 1,100 represents
+
+this situation. It’s also given that the helicopter must carry at least 10 packages: the inequality @+ > 10 represents this
+
+situation. Values of a and b that satisfy these two inequalities represent the allowable numbers of 120-pound packages and
+100-pound packages the helicopter can transport. To maximize the number of 120-pound packages, a, in the helicopter, the
+number of 100-pound packages, b, in the helicopter needs to be minimized. Expressing b in terms of a in the second
+inequality yields ) > 10—@, so the minimum value of b is equal to 10 — a. Substituting 10 — q@ for b in the first inequality
+
+results in 120a@+100(10—@) < 1,100. Using the distributive property to rewrite this inequality yields
+120a+1,000—100a@ < 1,100, or 20a+1,000 < 1,100. Subtracting 1,000 from both sides of this inequality yields
+20a < 100. Dividing both sides of this inequality by 20 results in @ < 5. This means that the maximum number of 120-pound
+
+packages that the helicopter can carry per trip is 5.
+
+Choices A, B, and D are incorrect and may result from incorrectly creating or solving the system of inequalities.",Medium

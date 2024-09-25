@@ -1,0 +1,36 @@
+model:
+  name: "gpt2-medium"
+  save_path_stage_I: "models/model_stage_I.pt"
+  save_path_stage_II: "models/model_stage_II.pt"
+  device: "cuda"  # or "cpu"
+
+data:
+  training_data_path: "data/training_data.jsonl"
+
+training:
+  max_length: 512
+  max_turns: 3
+  stage_II_epochs: 10
+  learning_rate_stage_II: 3e-5
+  gamma: 0.99
+  epsilon: 0.2
+  k_epochs: 4
+
+reward_function:
+  lambda_correct: 10.0
+  lambda_incorrect: -5.0
+  lambda_efficiency: 2.0
+  lambda_entropy: 0.1
+  lambda_stability: -1.0
+  # Removed lambda_similarity
+
+scheduler:
+  initial_temperature: 1.0
+  min_temperature: 0.5
+  max_temperature: 2.0
+  increase_factor: 1.1
+  decrease_factor: 0.9
+
+entropy:
+  alpha: 2.0
+  entropy_weight: 0.01

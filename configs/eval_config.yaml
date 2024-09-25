@@ -1,0 +1,20 @@
+# configs/config_evaluate.yaml
+
+model:
+  name: 'gpt2'
+
+device: 'cuda'  # or 'cpu'
+
+evaluation:
+  model_path: 'models/enhanced_model_multiturn.pth'
+  eval_path: 'data/processed/eval_data.csv'
+  max_turns: 3
+
+scheduler:
+  initial_temperature: 1.0
+  min_temperature: 0.5
+  max_temperature: 2.0
+  adjustment_factor: 0.1
+
+data:
+  eval_path: 'data/processed/eval_data.csv'

@@ -1,0 +1,27 @@
+# configs/config_stage_I.yaml
+
+model:
+  name: "gpt2-medium"
+  save_path_stage_I: "models/model_stage_I.pt"
+  device: "cuda"  # or "cpu"
+
+data:
+  training_data_path: "data/training_data.jsonl"
+
+training:
+  max_length: 512
+  batch_size: 8
+  stage_I_epochs: 3
+  learning_rate_stage_I: 3e-5
+  beta_2: 0.1  # Weight for KL divergence
+
+scheduler:
+  initial_temperature: 1.0
+  min_temperature: 0.5
+  max_temperature: 2.0
+  increase_factor: 1.1
+  decrease_factor: 0.9
+
+entropy:
+  alpha: 2.0
+  entropy_weight: 0.01
